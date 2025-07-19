@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# Arrow files
+*.arrow
+
 # Distribution / packaging
 .Python
 build/
