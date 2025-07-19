@@ -1,5 +1,0 @@
-- Revise the preprocessing because I either want to overwrite ds like it is or just create a dataloader
-- do I really want to use quality perturbations on the dataset?
-- Which quality metrics do I select here? Only sharpness?
-- The images already have some image quality issues are those enough? how are they over the different classes? can i really measure them?
-- 
