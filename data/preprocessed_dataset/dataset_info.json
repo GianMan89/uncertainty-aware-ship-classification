@@ -1,0 +1,81 @@
+{
+  "builder_name": "imagefolder",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "fgsc23",
+  "dataset_size": 755699,
+  "description": "",
+  "download_checksums": {
+    "hf://datasets/jbourcier/fgsc23@8ed10a6910e01addfdf4ee54d2bdad5a2842bed9/FGSC-23.zip": {
+      "num_bytes": 98825860,
+      "checksum": null
+    }
+  },
+  "download_size": 98825860,
+  "features": {
+    "image": {
+      "_type": "Image"
+    },
+    "label": {
+      "names": [
+        "0",
+        "1",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "2",
+        "20",
+        "21",
+        "22",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "_type": "ClassLabel"
+    },
+    "class_name": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "blur_radius": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "haze_alpha": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "grey_value": {
+      "dtype": "int64",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 99581559,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 755699,
+      "num_examples": 4080,
+      "dataset_name": "fgsc23"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
