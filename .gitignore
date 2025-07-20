@@ -9,9 +9,10 @@ __pycache__/
 # Arrow files
 *.arrow
 
-# Folder with Jupyter Notebook files
+# Folder
 old_nbs/
 keys/
+models/
 
 # Distribution / packaging
 .Python
