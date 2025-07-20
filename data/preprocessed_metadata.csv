@@ -1,0 +1,4081 @@
+label,class_name,cloud_coverage
+0,Non-ship,0.0342
+0,Non-ship,0.0563
+0,Non-ship,0.0709
+0,Non-ship,0.1297
+0,Non-ship,0.0447
+0,Non-ship,0.0796
+0,Non-ship,0.0749
+0,Non-ship,0.0703
+0,Non-ship,0.0615
+0,Non-ship,0.0646
+0,Non-ship,0.0439
+0,Non-ship,0.0658
+0,Non-ship,0.0262
+0,Non-ship,0.0685
+0,Non-ship,0.0471
+0,Non-ship,0.3792
+0,Non-ship,0.0453
+0,Non-ship,0.064
+0,Non-ship,0.0783
+0,Non-ship,0.0655
+0,Non-ship,0.0834
+0,Non-ship,0.1225
+0,Non-ship,0.0725
+0,Non-ship,0.0588
+0,Non-ship,0.0739
+0,Non-ship,0.0847
+0,Non-ship,0.0271
+0,Non-ship,0.6288
+0,Non-ship,0.0741
+0,Non-ship,0.0361
+0,Non-ship,0.0538
+0,Non-ship,0.0427
+0,Non-ship,0.5749
+0,Non-ship,0.0269
+0,Non-ship,0.0433
+0,Non-ship,0.0485
+0,Non-ship,0.0582
+0,Non-ship,0.0288
+0,Non-ship,0.0846
+0,Non-ship,0.088
+0,Non-ship,0.2411
+0,Non-ship,0.0114
+0,Non-ship,0.0269
+0,Non-ship,0.0423
+0,Non-ship,0.0674
+0,Non-ship,0.4461
+0,Non-ship,0.2659
+0,Non-ship,0.0608
+0,Non-ship,0.0462
+0,Non-ship,0.0776
+0,Non-ship,0.0826
+0,Non-ship,0.0614
+0,Non-ship,0.4073
+0,Non-ship,0.0147
+0,Non-ship,0.0202
+0,Non-ship,0.0538
+0,Non-ship,0.069
+0,Non-ship,0.026
+0,Non-ship,0.5748
+0,Non-ship,0.0793
+0,Non-ship,0.114
+0,Non-ship,0.1049
+0,Non-ship,0.403
+0,Non-ship,0.2256
+0,Non-ship,0.5668
+0,Non-ship,0.1085
+0,Non-ship,0.0522
+0,Non-ship,0.1156
+0,Non-ship,0.5303
+0,Non-ship,0.0656
+0,Non-ship,0.639
+0,Non-ship,0.0494
+0,Non-ship,0.0785
+0,Non-ship,0.0754
+0,Non-ship,0.0808
+0,Non-ship,0.1083
+0,Non-ship,0.2085
+0,Non-ship,0.0696
+0,Non-ship,0.0872
+0,Non-ship,0.0414
+0,Non-ship,0.0563
+0,Non-ship,0.2459
+0,Non-ship,0.0664
+0,Non-ship,0.086
+0,Non-ship,0.0756
+0,Non-ship,0.1235
+0,Non-ship,0.0591
+0,Non-ship,0.4808
+0,Non-ship,0.1096
+0,Non-ship,0.0394
+0,Non-ship,0.0608
+0,Non-ship,0.0129
+0,Non-ship,0.059
+0,Non-ship,0.0697
+0,Non-ship,0.1276
+0,Non-ship,0.0767
+0,Non-ship,0.1117
+1,Aircraft carrier,0.0887
+1,Aircraft carrier,0.185
+1,Aircraft carrier,0.2796
+1,Aircraft carrier,0.0698
+1,Aircraft carrier,0.0437
+1,Aircraft carrier,0.0875
+1,Aircraft carrier,0.0648
+1,Aircraft carrier,0.0652
+1,Aircraft carrier,0.4715
+1,Aircraft carrier,0.0753
+1,Aircraft carrier,0.0778
+1,Aircraft carrier,0.0869
+1,Aircraft carrier,0.0887
+1,Aircraft carrier,0.4934
+1,Aircraft carrier,0.2033
+1,Aircraft carrier,0.0469
+1,Aircraft carrier,0.4422
+1,Aircraft carrier,0.1017
+1,Aircraft carrier,0.0343
+1,Aircraft carrier,0.5756
+1,Aircraft carrier,0.0331
+1,Aircraft carrier,0.058
+1,Aircraft carrier,0.0977
+1,Aircraft carrier,0.0342
+1,Aircraft carrier,0.0729
+1,Aircraft carrier,0.0262
+1,Aircraft carrier,0.0877
+1,Aircraft carrier,0.0606
+1,Aircraft carrier,0.0718
+1,Aircraft carrier,0.3824
+1,Aircraft carrier,0.3572
+1,Aircraft carrier,0.0492
+1,Aircraft carrier,0.0708
+1,Aircraft carrier,0.1116
+2,Submarine,0.0155
+2,Submarine,0.5662
+2,Submarine,0.0719
+2,Submarine,0.1017
+2,Submarine,0.0907
+2,Submarine,0.0362
+2,Submarine,0.0385
+2,Submarine,0.0244
+2,Submarine,0.1434
+2,Submarine,0.0806
+2,Submarine,0.0427
+2,Submarine,0.3561
+2,Submarine,0.3829
+2,Submarine,0.1842
+2,Submarine,0.0485
+2,Submarine,0.4471
+2,Submarine,0.0823
+2,Submarine,0.0847
+2,Submarine,0.0782
+2,Submarine,0.0408
+2,Submarine,0.093
+2,Submarine,0.0372
+2,Submarine,0.1001
+2,Submarine,0.0401
+2,Submarine,0.5457
+2,Submarine,0.4075
+2,Submarine,0.0436
+2,Submarine,0.0703
+2,Submarine,0.1374
+2,Submarine,0.3274
+2,Submarine,0.0821
+2,Submarine,0.039
+2,Submarine,0.0425
+2,Submarine,0.0856
+2,Submarine,0.0795
+2,Submarine,0.6366
+2,Submarine,0.0708
+2,Submarine,0.1208
+2,Submarine,0.0641
+2,Submarine,0.1981
+2,Submarine,0.0634
+2,Submarine,0.069
+2,Submarine,0.0391
+2,Submarine,0.0987
+2,Submarine,0.0447
+2,Submarine,0.0643
+2,Submarine,0.4153
+2,Submarine,0.0766
+3,Medical ship,0.383
+3,Medical ship,0.037
+3,Medical ship,0.0354
+3,Medical ship,0.0801
+3,Medical ship,0.0727
+3,Medical ship,0.2689
+3,Medical ship,0.0931
+3,Medical ship,0.0566
+3,Medical ship,0.2886
+3,Medical ship,0.4144
+4,Combat boat,0.0398
+4,Combat boat,0.0539
+4,Combat boat,0.0781
+4,Combat boat,0.348
+4,Combat boat,0.0317
+4,Combat boat,0.3371
+4,Combat boat,0.0399
+4,Combat boat,0.0766
+4,Combat boat,0.0495
+4,Combat boat,0.1023
+4,Combat boat,0.0527
+4,Combat boat,0.0486
+4,Combat boat,0.0914
+4,Combat boat,0.0794
+4,Combat boat,0.077
+4,Combat boat,0.0617
+4,Combat boat,0.0775
+4,Combat boat,0.6197
+4,Combat boat,0.2504
+4,Combat boat,0.2627
+4,Combat boat,0.0844
+4,Combat boat,0.0906
+4,Combat boat,0.0613
+4,Combat boat,0.0798
+4,Combat boat,0.1248
+4,Combat boat,0.179
+4,Combat boat,0.0531
+4,Combat boat,0.0609
+4,Combat boat,0.0472
+5,Auxiliary ship,0.042
+5,Auxiliary ship,0.0313
+5,Auxiliary ship,0.0663
+5,Auxiliary ship,0.0722
+5,Auxiliary ship,0.0464
+5,Auxiliary ship,0.09
+5,Auxiliary ship,0.1268
+5,Auxiliary ship,0.0823
+5,Auxiliary ship,0.0391
+5,Auxiliary ship,0.0853
+5,Auxiliary ship,0.1045
+5,Auxiliary ship,0.0974
+5,Auxiliary ship,0.0288
+5,Auxiliary ship,0.2363
+5,Auxiliary ship,0.0978
+5,Auxiliary ship,0.0643
+5,Auxiliary ship,0.3622
+5,Auxiliary ship,0.1123
+5,Auxiliary ship,0.114
+5,Auxiliary ship,0.6274
+5,Auxiliary ship,0.071
+5,Auxiliary ship,0.0582
+5,Auxiliary ship,0.0471
+5,Auxiliary ship,0.0663
+5,Auxiliary ship,0.0472
+5,Auxiliary ship,0.0141
+5,Auxiliary ship,0.0408
+5,Auxiliary ship,0.0339
+5,Auxiliary ship,0.0217
+5,Auxiliary ship,0.0243
+5,Auxiliary ship,0.0385
+5,Auxiliary ship,0.0264
+5,Auxiliary ship,0.0405
+5,Auxiliary ship,0.0451
+5,Auxiliary ship,0.0497
+5,Auxiliary ship,0.0441
+5,Auxiliary ship,0.047
+5,Auxiliary ship,0.0601
+5,Auxiliary ship,0.0561
+5,Auxiliary ship,0.1006
+5,Auxiliary ship,0.1072
+5,Auxiliary ship,0.0539
+5,Auxiliary ship,0.0876
+5,Auxiliary ship,0.0507
+5,Auxiliary ship,0.0889
+6,Container ship,0.0354
+6,Container ship,0.0916
+6,Container ship,0.0753
+6,Container ship,0.0471
+6,Container ship,0.1058
+6,Container ship,0.0402
+6,Container ship,0.0258
+6,Container ship,0.0791
+6,Container ship,0.0967
+6,Container ship,0.0509
+6,Container ship,0.4425
+6,Container ship,0.1299
+6,Container ship,0.031
+6,Container ship,0.0537
+6,Container ship,0.0371
+6,Container ship,0.3579
+6,Container ship,0.0256
+6,Container ship,0.0538
+6,Container ship,0.0271
+7,Car carrier,0.0876
+7,Car carrier,0.0498
+7,Car carrier,0.0627
+7,Car carrier,0.0419
+7,Car carrier,0.086
+7,Car carrier,0.0264
+7,Car carrier,0.0466
+7,Car carrier,0.0699
+7,Car carrier,0.0435
+7,Car carrier,0.1067
+7,Car carrier,0.0858
+7,Car carrier,0.378
+7,Car carrier,0.0284
+7,Car carrier,0.0574
+8,Hovercraft,0.0662
+8,Hovercraft,0.0564
+8,Hovercraft,0.4488
+8,Hovercraft,0.045
+8,Hovercraft,0.0817
+8,Hovercraft,0.0636
+8,Hovercraft,0.0534
+8,Hovercraft,0.0783
+8,Hovercraft,0.3348
+8,Hovercraft,0.0819
+8,Hovercraft,0.0559
+8,Hovercraft,0.0576
+8,Hovercraft,0.0606
+8,Hovercraft,0.1491
+8,Hovercraft,0.4214
+8,Hovercraft,0.0415
+8,Hovercraft,0.0083
+8,Hovercraft,0.6786
+8,Hovercraft,0.4772
+8,Hovercraft,0.1208
+8,Hovercraft,0.0526
+8,Hovercraft,0.4236
+8,Hovercraft,0.085
+8,Hovercraft,0.4276
+9,Bulk carrier,0.0672
+9,Bulk carrier,0.0674
+9,Bulk carrier,0.0459
+9,Bulk carrier,0.0394
+9,Bulk carrier,0.0725
+9,Bulk carrier,0.0329
+9,Bulk carrier,0.0489
+9,Bulk carrier,0.3232
+9,Bulk carrier,0.0467
+9,Bulk carrier,0.0546
+9,Bulk carrier,0.1053
+9,Bulk carrier,0.5809
+9,Bulk carrier,0.0897
+9,Bulk carrier,0.272
+9,Bulk carrier,0.0613
+9,Bulk carrier,0.0566
+9,Bulk carrier,0.0569
+9,Bulk carrier,0.203
+9,Bulk carrier,0.0251
+9,Bulk carrier,0.6456
+9,Bulk carrier,0.0612
+9,Bulk carrier,0.0778
+9,Bulk carrier,0.1507
+9,Bulk carrier,0.1061
+9,Bulk carrier,0.0836
+9,Bulk carrier,0.0442
+9,Bulk carrier,0.0308
+9,Bulk carrier,0.3496
+9,Bulk carrier,0.6437
+9,Bulk carrier,0.3623
+9,Bulk carrier,0.0381
+9,Bulk carrier,0.0949
+9,Bulk carrier,0.0345
+9,Bulk carrier,0.0401
+9,Bulk carrier,0.0676
+9,Bulk carrier,0.0478
+9,Bulk carrier,0.414
+9,Bulk carrier,0.0425
+9,Bulk carrier,0.0977
+9,Bulk carrier,0.0522
+9,Bulk carrier,0.0729
+9,Bulk carrier,0.0799
+9,Bulk carrier,0.0452
+9,Bulk carrier,0.0332
+9,Bulk carrier,0.0386
+9,Bulk carrier,0.0633
+9,Bulk carrier,0.1708
+9,Bulk carrier,0.0607
+9,Bulk carrier,0.0387
+9,Bulk carrier,0.0783
+9,Bulk carrier,0.6125
+9,Bulk carrier,0.053
+9,Bulk carrier,0.0833
+9,Bulk carrier,0.1088
+9,Bulk carrier,0.0407
+9,Bulk carrier,0.0944
+9,Bulk carrier,0.0803
+9,Bulk carrier,0.0387
+9,Bulk carrier,0.0099
+9,Bulk carrier,0.0243
+9,Bulk carrier,0.0957
+9,Bulk carrier,0.058
+9,Bulk carrier,0.0326
+9,Bulk carrier,0.0812
+9,Bulk carrier,0.0438
+9,Bulk carrier,0.0541
+9,Bulk carrier,0.1889
+9,Bulk carrier,0.1326
+9,Bulk carrier,0.058
+10,Oil tanker,0.0973
+10,Oil tanker,0.3532
+10,Oil tanker,0.1721
+10,Oil tanker,0.0542
+10,Oil tanker,0.046
+10,Oil tanker,0.0437
+10,Oil tanker,0.5534
+10,Oil tanker,0.0762
+10,Oil tanker,0.2355
+10,Oil tanker,0.0986
+10,Oil tanker,0.0267
+10,Oil tanker,0.0543
+10,Oil tanker,0.0702
+10,Oil tanker,0.0707
+10,Oil tanker,0.0703
+10,Oil tanker,0.0554
+10,Oil tanker,0.1096
+10,Oil tanker,0.0146
+10,Oil tanker,0.4101
+10,Oil tanker,0.0439
+10,Oil tanker,0.0751
+10,Oil tanker,0.0827
+10,Oil tanker,0.0522
+10,Oil tanker,0.0674
+10,Oil tanker,0.1829
+10,Oil tanker,0.0556
+10,Oil tanker,0.673
+10,Oil tanker,0.1358
+10,Oil tanker,0.0344
+10,Oil tanker,0.0362
+10,Oil tanker,0.0506
+10,Oil tanker,0.0657
+10,Oil tanker,0.0126
+11,Fishing boat,0.0514
+11,Fishing boat,0.0515
+11,Fishing boat,0.0765
+11,Fishing boat,0.0461
+11,Fishing boat,0.0228
+11,Fishing boat,0.0969
+11,Fishing boat,0.092
+11,Fishing boat,0.0685
+11,Fishing boat,0.0393
+11,Fishing boat,0.104
+11,Fishing boat,0.0803
+11,Fishing boat,0.0371
+11,Fishing boat,0.044
+11,Fishing boat,0.0664
+11,Fishing boat,0.0313
+11,Fishing boat,0.2798
+11,Fishing boat,0.0371
+11,Fishing boat,0.0372
+11,Fishing boat,0.0617
+11,Fishing boat,0.0597
+12,Destroyer,0.0738
+12,Destroyer,0.0749
+12,Destroyer,0.113
+12,Destroyer,0.0163
+12,Destroyer,0.0512
+12,Destroyer,0.2276
+12,Destroyer,0.0731
+12,Destroyer,0.0332
+12,Destroyer,0.0737
+12,Destroyer,0.0376
+12,Destroyer,0.0588
+12,Destroyer,0.4022
+12,Destroyer,0.3488
+12,Destroyer,0.0267
+12,Destroyer,0.1585
+12,Destroyer,0.3319
+12,Destroyer,0.024
+12,Destroyer,0.0386
+12,Destroyer,0.0546
+12,Destroyer,0.0429
+12,Destroyer,0.0754
+12,Destroyer,0.0341
+12,Destroyer,0.044
+12,Destroyer,0.2423
+12,Destroyer,0.1055
+12,Destroyer,0.0878
+12,Destroyer,0.0717
+12,Destroyer,0.0715
+12,Destroyer,0.0789
+12,Destroyer,0.0962
+12,Destroyer,0.1147
+12,Destroyer,0.0908
+12,Destroyer,0.0627
+12,Destroyer,0.088
+12,Destroyer,0.0396
+12,Destroyer,0.1115
+12,Destroyer,0.0376
+12,Destroyer,0.0718
+12,Destroyer,0.0872
+12,Destroyer,0.6783
+12,Destroyer,0.1303
+12,Destroyer,0.3204
+12,Destroyer,0.0043
+12,Destroyer,0.0449
+12,Destroyer,0.4975
+12,Destroyer,0.062
+12,Destroyer,0.0458
+12,Destroyer,0.0718
+12,Destroyer,0.6305
+12,Destroyer,0.0955
+12,Destroyer,0.0992
+12,Destroyer,0.0924
+12,Destroyer,0.1642
+12,Destroyer,0.0992
+12,Destroyer,0.1143
+12,Destroyer,0.0247
+12,Destroyer,0.126
+12,Destroyer,0.0641
+12,Destroyer,0.155
+12,Destroyer,0.0766
+12,Destroyer,0.0612
+12,Destroyer,0.0483
+12,Destroyer,0.0247
+12,Destroyer,0.0517
+12,Destroyer,0.0826
+12,Destroyer,0.0553
+12,Destroyer,0.0818
+12,Destroyer,0.516
+12,Destroyer,0.2688
+12,Destroyer,0.06
+12,Destroyer,0.2507
+12,Destroyer,0.0815
+12,Destroyer,0.0722
+12,Destroyer,0.0264
+12,Destroyer,0.6137
+12,Destroyer,0.0465
+12,Destroyer,0.0892
+12,Destroyer,0.0653
+12,Destroyer,0.1632
+12,Destroyer,0.0657
+12,Destroyer,0.2665
+12,Destroyer,0.0537
+12,Destroyer,0.0363
+12,Destroyer,0.0652
+12,Destroyer,0.4053
+12,Destroyer,0.072
+12,Destroyer,0.0824
+12,Destroyer,0.0449
+12,Destroyer,0.074
+12,Destroyer,0.0723
+12,Destroyer,0.3778
+12,Destroyer,0.0667
+12,Destroyer,0.0767
+12,Destroyer,0.0269
+12,Destroyer,0.1088
+12,Destroyer,0.0676
+12,Destroyer,0.0654
+12,Destroyer,0.0401
+12,Destroyer,0.4896
+12,Destroyer,0.128
+12,Destroyer,0.0912
+12,Destroyer,0.2183
+12,Destroyer,0.0448
+12,Destroyer,0.2906
+12,Destroyer,0.4438
+12,Destroyer,0.0455
+12,Destroyer,0.0101
+12,Destroyer,0.0686
+13,Passenger ship,0.0819
+13,Passenger ship,0.0674
+13,Passenger ship,0.0955
+13,Passenger ship,0.2982
+13,Passenger ship,0.1193
+13,Passenger ship,0.0398
+13,Passenger ship,0.0791
+13,Passenger ship,0.0642
+13,Passenger ship,0.1177
+13,Passenger ship,0.1043
+13,Passenger ship,0.0738
+13,Passenger ship,0.0415
+13,Passenger ship,0.4241
+13,Passenger ship,0.2848
+13,Passenger ship,0.0503
+13,Passenger ship,0.0291
+13,Passenger ship,0.0684
+13,Passenger ship,0.0629
+14,Liquefied gas ship,0.0172
+14,Liquefied gas ship,0.0509
+14,Liquefied gas ship,0.0652
+14,Liquefied gas ship,0.0793
+14,Liquefied gas ship,0.08
+14,Liquefied gas ship,0.0755
+14,Liquefied gas ship,0.1119
+14,Liquefied gas ship,0.0438
+14,Liquefied gas ship,0.0293
+14,Liquefied gas ship,0.0749
+14,Liquefied gas ship,0.0633
+14,Liquefied gas ship,0.0255
+14,Liquefied gas ship,0.0405
+14,Liquefied gas ship,0.0464
+14,Liquefied gas ship,0.0945
+14,Liquefied gas ship,0.0993
+14,Liquefied gas ship,0.0665
+14,Liquefied gas ship,0.0534
+14,Liquefied gas ship,0.0494
+14,Liquefied gas ship,0.0397
+15,Barge,0.4443
+15,Barge,0.5952
+15,Barge,0.06
+15,Barge,0.0552
+15,Barge,0.0814
+15,Barge,0.0669
+15,Barge,0.109
+15,Barge,0.09
+15,Barge,0.0649
+15,Barge,0.05
+15,Barge,0.2844
+16,Landing craft,0.0525
+16,Landing craft,0.0532
+16,Landing craft,0.012
+16,Landing craft,0.0565
+16,Landing craft,0.087
+16,Landing craft,0.0967
+16,Landing craft,0.0638
+16,Landing craft,0.0563
+16,Landing craft,0.0472
+16,Landing craft,0.11
+16,Landing craft,0.3527
+16,Landing craft,0.0602
+16,Landing craft,0.0798
+16,Landing craft,0.0774
+16,Landing craft,0.2769
+16,Landing craft,0.0639
+16,Landing craft,0.0572
+16,Landing craft,0.3014
+16,Landing craft,0.1252
+16,Landing craft,0.0313
+16,Landing craft,0.0814
+16,Landing craft,0.0761
+17,Frigate,0.0434
+17,Frigate,0.0632
+17,Frigate,0.0779
+17,Frigate,0.0435
+17,Frigate,0.0967
+17,Frigate,0.2761
+17,Frigate,0.0773
+17,Frigate,0.0597
+17,Frigate,0.126
+17,Frigate,0.1668
+17,Frigate,0.1091
+17,Frigate,0.0638
+17,Frigate,0.0387
+17,Frigate,0.0586
+17,Frigate,0.0707
+17,Frigate,0.0621
+17,Frigate,0.1259
+17,Frigate,0.0525
+17,Frigate,0.0532
+17,Frigate,0.1145
+17,Frigate,0.064
+17,Frigate,0.6136
+17,Frigate,0.3895
+17,Frigate,0.4772
+17,Frigate,0.6384
+17,Frigate,0.033
+17,Frigate,0.0658
+17,Frigate,0.0772
+17,Frigate,0.577
+17,Frigate,0.0626
+17,Frigate,0.0779
+17,Frigate,0.0513
+17,Frigate,0.0372
+17,Frigate,0.0487
+17,Frigate,0.0836
+17,Frigate,0.024
+17,Frigate,0.1108
+17,Frigate,0.5848
+17,Frigate,0.1337
+17,Frigate,0.0638
+17,Frigate,0.2676
+17,Frigate,0.0735
+17,Frigate,0.0928
+17,Frigate,0.1194
+17,Frigate,0.0476
+17,Frigate,0.0704
+17,Frigate,0.0729
+17,Frigate,0.0603
+17,Frigate,0.0862
+17,Frigate,0.0943
+17,Frigate,0.0704
+17,Frigate,0.2267
+17,Frigate,0.2137
+17,Frigate,0.0548
+17,Frigate,0.1242
+17,Frigate,0.5113
+17,Frigate,0.3004
+17,Frigate,0.5319
+17,Frigate,0.1395
+18,Amphibious transport dock,0.0703
+18,Amphibious transport dock,0.101
+18,Amphibious transport dock,0.0518
+18,Amphibious transport dock,0.0469
+18,Amphibious transport dock,0.2978
+18,Amphibious transport dock,0.0218
+18,Amphibious transport dock,0.0857
+18,Amphibious transport dock,0.044
+18,Amphibious transport dock,0.0813
+18,Amphibious transport dock,0.4336
+18,Amphibious transport dock,0.3669
+18,Amphibious transport dock,0.4776
+18,Amphibious transport dock,0.0768
+18,Amphibious transport dock,0.055
+18,Amphibious transport dock,0.1847
+18,Amphibious transport dock,0.2837
+18,Amphibious transport dock,0.0576
+18,Amphibious transport dock,0.2504
+19,Cruiser,0.0644
+19,Cruiser,0.0649
+19,Cruiser,0.0421
+19,Cruiser,0.0268
+19,Cruiser,0.0787
+19,Cruiser,0.2729
+19,Cruiser,0.0631
+19,Cruiser,0.0486
+19,Cruiser,0.1123
+19,Cruiser,0.0517
+19,Cruiser,0.0553
+19,Cruiser,0.1792
+19,Cruiser,0.0868
+19,Cruiser,0.1042
+19,Cruiser,0.3332
+19,Cruiser,0.3288
+19,Cruiser,0.2583
+19,Cruiser,0.4255
+19,Cruiser,0.3206
+19,Cruiser,0.0709
+19,Cruiser,0.1927
+19,Cruiser,0.0396
+19,Cruiser,0.0653
+19,Cruiser,0.202
+19,Cruiser,0.0511
+19,Cruiser,0.5491
+19,Cruiser,0.1064
+19,Cruiser,0.0675
+19,Cruiser,0.0244
+19,Cruiser,0.0522
+19,Cruiser,0.5175
+19,Cruiser,0.0577
+19,Cruiser,0.0371
+19,Cruiser,0.0137
+19,Cruiser,0.0512
+19,Cruiser,0.0689
+19,Cruiser,0.4153
+19,Cruiser,0.0607
+19,Cruiser,0.1177
+19,Cruiser,0.1131
+19,Cruiser,0.108
+19,Cruiser,0.1232
+19,Cruiser,0.0725
+19,Cruiser,0.0321
+19,Cruiser,0.0543
+19,Cruiser,0.0219
+19,Cruiser,0.0326
+19,Cruiser,0.4949
+19,Cruiser,0.0525
+19,Cruiser,0.0704
+19,Cruiser,0.0661
+19,Cruiser,0.0819
+19,Cruiser,0.0526
+19,Cruiser,0.064
+19,Cruiser,0.0613
+19,Cruiser,0.0899
+19,Cruiser,0.4105
+19,Cruiser,0.2102
+19,Cruiser,0.1028
+20,Tarawa-class amphibious assault ship,0.0626
+20,Tarawa-class amphibious assault ship,0.0555
+20,Tarawa-class amphibious assault ship,0.0502
+20,Tarawa-class amphibious assault ship,0.0467
+20,Tarawa-class amphibious assault ship,0.0312
+20,Tarawa-class amphibious assault ship,0.0572
+20,Tarawa-class amphibious assault ship,0.0707
+20,Tarawa-class amphibious assault ship,0.0901
+20,Tarawa-class amphibious assault ship,0.1664
+20,Tarawa-class amphibious assault ship,0.0361
+20,Tarawa-class amphibious assault ship,0.0897
+20,Tarawa-class amphibious assault ship,0.0162
+20,Tarawa-class amphibious assault ship,0.0769
+20,Tarawa-class amphibious assault ship,0.0882
+20,Tarawa-class amphibious assault ship,0.059
+20,Tarawa-class amphibious assault ship,0.0978
+20,Tarawa-class amphibious assault ship,0.2044
+20,Tarawa-class amphibious assault ship,0.3014
+21,Amphibious assault ship,0.0551
+21,Amphibious assault ship,0.0568
+21,Amphibious assault ship,0.0456
+21,Amphibious assault ship,0.0717
+21,Amphibious assault ship,0.052
+21,Amphibious assault ship,0.0221
+21,Amphibious assault ship,0.0268
+21,Amphibious assault ship,0.6148
+21,Amphibious assault ship,0.0587
+21,Amphibious assault ship,0.0155
+21,Amphibious assault ship,0.4224
+21,Amphibious assault ship,0.0395
+21,Amphibious assault ship,0.049
+21,Amphibious assault ship,0.0417
+21,Amphibious assault ship,0.0167
+21,Amphibious assault ship,0.4748
+21,Amphibious assault ship,0.0937
+21,Amphibious assault ship,0.2845
+21,Amphibious assault ship,0.0625
+21,Amphibious assault ship,0.0551
+21,Amphibious assault ship,0.0783
+21,Amphibious assault ship,0.0489
+21,Amphibious assault ship,0.0546
+21,Amphibious assault ship,0.1226
+21,Amphibious assault ship,0.1385
+21,Amphibious assault ship,0.3483
+21,Amphibious assault ship,0.6005
+21,Amphibious assault ship,0.4895
+21,Amphibious assault ship,0.0571
+21,Amphibious assault ship,0.1219
+21,Amphibious assault ship,0.0457
+22,Command ship,0.0635
+22,Command ship,0.0534
+22,Command ship,0.0624
+22,Command ship,0.0567
+22,Command ship,0.0291
+22,Command ship,0.6848
+22,Command ship,0.0275
+22,Command ship,0.5982
+22,Command ship,0.082
+22,Command ship,0.5859
+22,Command ship,0.0644
+22,Command ship,0.0126
+22,Command ship,0.0454
+22,Command ship,0.2714
+22,Command ship,0.0273
+22,Command ship,0.0683
+22,Command ship,0.3872
+22,Command ship,0.0251
+0,Non-ship,0.5885
+0,Non-ship,0.1212
+0,Non-ship,0.4162
+0,Non-ship,0.086
+0,Non-ship,0.0669
+0,Non-ship,0.139
+0,Non-ship,0.0905
+0,Non-ship,0.0512
+0,Non-ship,0.1947
+0,Non-ship,0.0677
+0,Non-ship,0.0628
+0,Non-ship,0.0603
+0,Non-ship,0.062
+0,Non-ship,0.0728
+0,Non-ship,0.1256
+0,Non-ship,0.05
+0,Non-ship,0.2001
+0,Non-ship,0.0513
+0,Non-ship,0.0622
+0,Non-ship,0.0914
+0,Non-ship,0.0748
+0,Non-ship,0.2927
+0,Non-ship,0.06
+0,Non-ship,0.054
+0,Non-ship,0.071
+0,Non-ship,0.0792
+0,Non-ship,0.0747
+0,Non-ship,0.0931
+0,Non-ship,0.0638
+0,Non-ship,0.1484
+0,Non-ship,0.0477
+0,Non-ship,0.0591
+0,Non-ship,0.0591
+0,Non-ship,0.0798
+0,Non-ship,0.0696
+0,Non-ship,0.0752
+0,Non-ship,0.0737
+0,Non-ship,0.0774
+0,Non-ship,0.022
+0,Non-ship,0.0845
+0,Non-ship,0.0675
+0,Non-ship,0.1062
+0,Non-ship,0.0901
+0,Non-ship,0.0493
+0,Non-ship,0.1139
+0,Non-ship,0.0897
+0,Non-ship,0.0981
+0,Non-ship,0.273
+0,Non-ship,0.3839
+0,Non-ship,0.0603
+0,Non-ship,0.0592
+0,Non-ship,0.0562
+0,Non-ship,0.0501
+0,Non-ship,0.0846
+0,Non-ship,0.0355
+0,Non-ship,0.0192
+0,Non-ship,0.0727
+0,Non-ship,0.058
+0,Non-ship,0.064
+0,Non-ship,0.0387
+0,Non-ship,0.0602
+0,Non-ship,0.1012
+0,Non-ship,0.0129
+0,Non-ship,0.5489
+0,Non-ship,0.0534
+0,Non-ship,0.1004
+0,Non-ship,0.039
+0,Non-ship,0.6003
+0,Non-ship,0.0708
+0,Non-ship,0.101
+0,Non-ship,0.0738
+0,Non-ship,0.063
+0,Non-ship,0.0257
+0,Non-ship,0.0792
+0,Non-ship,0.6669
+0,Non-ship,0.3421
+0,Non-ship,0.0446
+0,Non-ship,0.0719
+0,Non-ship,0.0511
+0,Non-ship,0.273
+0,Non-ship,0.0661
+0,Non-ship,0.0817
+0,Non-ship,0.0653
+0,Non-ship,0.0613
+0,Non-ship,0.0913
+0,Non-ship,0.0572
+0,Non-ship,0.0931
+0,Non-ship,0.1933
+0,Non-ship,0.1049
+0,Non-ship,0.075
+0,Non-ship,0.0677
+0,Non-ship,0.576
+0,Non-ship,0.0545
+0,Non-ship,0.0344
+0,Non-ship,0.1074
+0,Non-ship,0.022
+0,Non-ship,0.0784
+0,Non-ship,0.0677
+0,Non-ship,0.0612
+0,Non-ship,0.0227
+0,Non-ship,0.0321
+0,Non-ship,0.0389
+0,Non-ship,0.0767
+0,Non-ship,0.057
+0,Non-ship,0.0409
+0,Non-ship,0.0495
+0,Non-ship,0.1242
+0,Non-ship,0.1371
+0,Non-ship,0.1435
+0,Non-ship,0.0749
+0,Non-ship,0.0414
+0,Non-ship,0.6079
+0,Non-ship,0.2695
+0,Non-ship,0.069
+0,Non-ship,0.0591
+0,Non-ship,0.3648
+0,Non-ship,0.1261
+0,Non-ship,0.0786
+0,Non-ship,0.0688
+0,Non-ship,0.0586
+0,Non-ship,0.2159
+0,Non-ship,0.0317
+0,Non-ship,0.0534
+0,Non-ship,0.0394
+0,Non-ship,0.0568
+0,Non-ship,0.0523
+0,Non-ship,0.0883
+0,Non-ship,0.0365
+0,Non-ship,0.0676
+0,Non-ship,0.2956
+0,Non-ship,0.1266
+0,Non-ship,0.0709
+0,Non-ship,0.0435
+0,Non-ship,0.1216
+0,Non-ship,0.3675
+0,Non-ship,0.5813
+0,Non-ship,0.6277
+0,Non-ship,0.0341
+0,Non-ship,0.0748
+0,Non-ship,0.2466
+0,Non-ship,0.2631
+0,Non-ship,0.0551
+0,Non-ship,0.0371
+0,Non-ship,0.0936
+0,Non-ship,0.3664
+0,Non-ship,0.0831
+0,Non-ship,0.0727
+0,Non-ship,0.0167
+0,Non-ship,0.1158
+0,Non-ship,0.0757
+0,Non-ship,0.079
+0,Non-ship,0.3059
+0,Non-ship,0.0876
+0,Non-ship,0.0781
+0,Non-ship,0.1006
+0,Non-ship,0.5643
+0,Non-ship,0.6666
+0,Non-ship,0.0473
+0,Non-ship,0.0664
+0,Non-ship,0.0879
+0,Non-ship,0.0876
+0,Non-ship,0.0747
+0,Non-ship,0.0536
+0,Non-ship,0.0544
+0,Non-ship,0.0449
+0,Non-ship,0.0167
+0,Non-ship,0.0518
+0,Non-ship,0.0894
+0,Non-ship,0.0676
+0,Non-ship,0.5659
+0,Non-ship,0.0658
+0,Non-ship,0.0547
+0,Non-ship,0.1478
+0,Non-ship,0.0428
+0,Non-ship,0.0723
+0,Non-ship,0.0676
+0,Non-ship,0.5601
+0,Non-ship,0.0361
+0,Non-ship,0.0404
+0,Non-ship,0.0631
+0,Non-ship,0.0612
+0,Non-ship,0.0802
+0,Non-ship,0.0224
+0,Non-ship,0.0391
+0,Non-ship,0.4543
+0,Non-ship,0.0939
+0,Non-ship,0.4762
+0,Non-ship,0.0538
+0,Non-ship,0.4769
+0,Non-ship,0.0451
+0,Non-ship,0.0673
+0,Non-ship,0.1046
+0,Non-ship,0.1802
+0,Non-ship,0.0982
+0,Non-ship,0.1019
+0,Non-ship,0.0757
+0,Non-ship,0.5637
+0,Non-ship,0.0293
+0,Non-ship,0.0437
+0,Non-ship,0.1478
+0,Non-ship,0.1595
+0,Non-ship,0.0604
+0,Non-ship,0.0589
+0,Non-ship,0.074
+0,Non-ship,0.0916
+0,Non-ship,0.0396
+0,Non-ship,0.0631
+0,Non-ship,0.1098
+0,Non-ship,0.0659
+0,Non-ship,0.0652
+0,Non-ship,0.0771
+0,Non-ship,0.1005
+0,Non-ship,0.4016
+0,Non-ship,0.1294
+0,Non-ship,0.0723
+0,Non-ship,0.0797
+0,Non-ship,0.3971
+0,Non-ship,0.0443
+0,Non-ship,0.2484
+0,Non-ship,0.0648
+0,Non-ship,0.086
+0,Non-ship,0.0903
+0,Non-ship,0.0393
+0,Non-ship,0.1102
+0,Non-ship,0.053
+0,Non-ship,0.0813
+0,Non-ship,0.1372
+0,Non-ship,0.0433
+0,Non-ship,0.173
+0,Non-ship,0.2317
+0,Non-ship,0.1611
+0,Non-ship,0.1194
+0,Non-ship,0.4216
+0,Non-ship,0.0791
+0,Non-ship,0.0765
+0,Non-ship,0.4708
+0,Non-ship,0.4074
+0,Non-ship,0.042
+0,Non-ship,0.1014
+0,Non-ship,0.0692
+0,Non-ship,0.0701
+0,Non-ship,0.6229
+0,Non-ship,0.0894
+0,Non-ship,0.0831
+0,Non-ship,0.435
+0,Non-ship,0.077
+0,Non-ship,0.0748
+0,Non-ship,0.3116
+0,Non-ship,0.0377
+0,Non-ship,0.0942
+0,Non-ship,0.0644
+0,Non-ship,0.0631
+0,Non-ship,0.1142
+0,Non-ship,0.0697
+0,Non-ship,0.469
+0,Non-ship,0.072
+0,Non-ship,0.5879
+0,Non-ship,0.0109
+0,Non-ship,0.57
+0,Non-ship,0.0929
+0,Non-ship,0.0556
+0,Non-ship,0.2396
+0,Non-ship,0.0291
+0,Non-ship,0.0484
+0,Non-ship,0.2591
+0,Non-ship,0.0759
+0,Non-ship,0.4393
+0,Non-ship,0.0693
+0,Non-ship,0.2144
+0,Non-ship,0.0669
+0,Non-ship,0.0668
+0,Non-ship,0.1754
+0,Non-ship,0.0857
+0,Non-ship,0.5659
+0,Non-ship,0.3238
+0,Non-ship,0.1097
+0,Non-ship,0.1139
+0,Non-ship,0.1077
+0,Non-ship,0.0534
+0,Non-ship,0.0456
+0,Non-ship,0.6274
+0,Non-ship,0.1341
+0,Non-ship,0.2733
+0,Non-ship,0.0344
+0,Non-ship,0.496
+0,Non-ship,0.0377
+0,Non-ship,0.3506
+0,Non-ship,0.0707
+0,Non-ship,0.1528
+0,Non-ship,0.4634
+0,Non-ship,0.053
+0,Non-ship,0.0881
+0,Non-ship,0.0476
+0,Non-ship,0.0162
+0,Non-ship,0.0909
+0,Non-ship,0.0996
+0,Non-ship,0.0532
+0,Non-ship,0.083
+0,Non-ship,0.1113
+0,Non-ship,0.0345
+0,Non-ship,0.0458
+0,Non-ship,0.0972
+0,Non-ship,0.0705
+0,Non-ship,0.1941
+0,Non-ship,0.6269
+0,Non-ship,0.0406
+0,Non-ship,0.668
+0,Non-ship,0.0709
+0,Non-ship,0.4829
+0,Non-ship,0.0703
+0,Non-ship,0.1828
+0,Non-ship,0.0539
+0,Non-ship,0.0591
+0,Non-ship,0.471
+0,Non-ship,0.0758
+0,Non-ship,0.0464
+0,Non-ship,0.052
+0,Non-ship,0.3587
+0,Non-ship,0.0639
+0,Non-ship,0.08
+0,Non-ship,0.0719
+0,Non-ship,0.0131
+0,Non-ship,0.0342
+0,Non-ship,0.3063
+0,Non-ship,0.0868
+0,Non-ship,0.1353
+0,Non-ship,0.2241
+0,Non-ship,0.0618
+0,Non-ship,0.1051
+0,Non-ship,0.19
+0,Non-ship,0.0915
+0,Non-ship,0.073
+0,Non-ship,0.1062
+0,Non-ship,0.0999
+0,Non-ship,0.2874
+0,Non-ship,0.3993
+0,Non-ship,0.2779
+0,Non-ship,0.0823
+0,Non-ship,0.0538
+0,Non-ship,0.0669
+0,Non-ship,0.0759
+0,Non-ship,0.0258
+0,Non-ship,0.0709
+0,Non-ship,0.0575
+0,Non-ship,0.0724
+0,Non-ship,0.0836
+0,Non-ship,0.1075
+0,Non-ship,0.2316
+0,Non-ship,0.0812
+0,Non-ship,0.1149
+0,Non-ship,0.0324
+0,Non-ship,0.0625
+0,Non-ship,0.0999
+0,Non-ship,0.081
+0,Non-ship,0.0574
+0,Non-ship,0.0179
+0,Non-ship,0.1662
+0,Non-ship,0.0329
+0,Non-ship,0.0525
+0,Non-ship,0.0619
+0,Non-ship,0.0305
+0,Non-ship,0.0564
+0,Non-ship,0.0456
+0,Non-ship,0.0614
+0,Non-ship,0.0618
+0,Non-ship,0.0603
+0,Non-ship,0.6731
+0,Non-ship,0.0656
+0,Non-ship,0.4289
+0,Non-ship,0.076
+0,Non-ship,0.2
+0,Non-ship,0.1006
+0,Non-ship,0.1567
+0,Non-ship,0.0739
+0,Non-ship,0.0278
+0,Non-ship,0.0542
+0,Non-ship,0.2774
+0,Non-ship,0.2628
+0,Non-ship,0.0853
+0,Non-ship,0.0916
+0,Non-ship,0.156
+0,Non-ship,0.1033
+0,Non-ship,0.0593
+0,Non-ship,0.0903
+0,Non-ship,0.0336
+0,Non-ship,0.0709
+0,Non-ship,0.0579
+1,Aircraft carrier,0.0779
+1,Aircraft carrier,0.4749
+1,Aircraft carrier,0.069
+1,Aircraft carrier,0.3453
+1,Aircraft carrier,0.4467
+1,Aircraft carrier,0.0891
+1,Aircraft carrier,0.588
+1,Aircraft carrier,0.6273
+1,Aircraft carrier,0.0843
+1,Aircraft carrier,0.0484
+1,Aircraft carrier,0.0557
+1,Aircraft carrier,0.0545
+1,Aircraft carrier,0.1356
+1,Aircraft carrier,0.061
+1,Aircraft carrier,0.0474
+1,Aircraft carrier,0.0831
+1,Aircraft carrier,0.073
+1,Aircraft carrier,0.0259
+1,Aircraft carrier,0.4076
+1,Aircraft carrier,0.1114
+1,Aircraft carrier,0.2649
+1,Aircraft carrier,0.0326
+1,Aircraft carrier,0.098
+1,Aircraft carrier,0.0443
+1,Aircraft carrier,0.0363
+1,Aircraft carrier,0.0538
+1,Aircraft carrier,0.1022
+1,Aircraft carrier,0.1124
+1,Aircraft carrier,0.2512
+1,Aircraft carrier,0.1077
+1,Aircraft carrier,0.5273
+1,Aircraft carrier,0.0824
+1,Aircraft carrier,0.0647
+1,Aircraft carrier,0.476
+1,Aircraft carrier,0.2527
+1,Aircraft carrier,0.0388
+1,Aircraft carrier,0.1028
+1,Aircraft carrier,0.1332
+1,Aircraft carrier,0.0712
+1,Aircraft carrier,0.0576
+1,Aircraft carrier,0.052
+1,Aircraft carrier,0.0328
+1,Aircraft carrier,0.0786
+1,Aircraft carrier,0.0767
+1,Aircraft carrier,0.4144
+1,Aircraft carrier,0.0418
+1,Aircraft carrier,0.0744
+1,Aircraft carrier,0.3934
+1,Aircraft carrier,0.0586
+1,Aircraft carrier,0.0351
+1,Aircraft carrier,0.0215
+1,Aircraft carrier,0.3741
+1,Aircraft carrier,0.0615
+1,Aircraft carrier,0.1856
+1,Aircraft carrier,0.0594
+1,Aircraft carrier,0.0646
+1,Aircraft carrier,0.4813
+1,Aircraft carrier,0.0698
+1,Aircraft carrier,0.0456
+1,Aircraft carrier,0.0458
+1,Aircraft carrier,0.0973
+1,Aircraft carrier,0.0748
+1,Aircraft carrier,0.0493
+1,Aircraft carrier,0.6198
+1,Aircraft carrier,0.0665
+1,Aircraft carrier,0.0643
+1,Aircraft carrier,0.0652
+1,Aircraft carrier,0.0921
+1,Aircraft carrier,0.0626
+1,Aircraft carrier,0.0483
+1,Aircraft carrier,0.0902
+1,Aircraft carrier,0.297
+1,Aircraft carrier,0.2248
+1,Aircraft carrier,0.0363
+1,Aircraft carrier,0.0278
+1,Aircraft carrier,0.0353
+1,Aircraft carrier,0.0503
+1,Aircraft carrier,0.085
+1,Aircraft carrier,0.0701
+1,Aircraft carrier,0.1618
+1,Aircraft carrier,0.0939
+1,Aircraft carrier,0.2108
+1,Aircraft carrier,0.0548
+1,Aircraft carrier,0.025
+1,Aircraft carrier,0.024
+1,Aircraft carrier,0.0637
+1,Aircraft carrier,0.2028
+1,Aircraft carrier,0.057
+1,Aircraft carrier,0.0678
+1,Aircraft carrier,0.0346
+1,Aircraft carrier,0.0619
+1,Aircraft carrier,0.0673
+1,Aircraft carrier,0.0608
+1,Aircraft carrier,0.0865
+1,Aircraft carrier,0.0535
+1,Aircraft carrier,0.0981
+1,Aircraft carrier,0.0944
+1,Aircraft carrier,0.1297
+1,Aircraft carrier,0.0452
+1,Aircraft carrier,0.0833
+1,Aircraft carrier,0.0907
+1,Aircraft carrier,0.0305
+1,Aircraft carrier,0.0864
+1,Aircraft carrier,0.0371
+1,Aircraft carrier,0.0535
+1,Aircraft carrier,0.0606
+1,Aircraft carrier,0.0974
+1,Aircraft carrier,0.029
+1,Aircraft carrier,0.1207
+1,Aircraft carrier,0.101
+1,Aircraft carrier,0.0942
+1,Aircraft carrier,0.066
+1,Aircraft carrier,0.0384
+1,Aircraft carrier,0.3997
+1,Aircraft carrier,0.0447
+1,Aircraft carrier,0.0601
+1,Aircraft carrier,0.0754
+1,Aircraft carrier,0.0855
+1,Aircraft carrier,0.0622
+1,Aircraft carrier,0.0336
+1,Aircraft carrier,0.0788
+1,Aircraft carrier,0.1018
+1,Aircraft carrier,0.0336
+1,Aircraft carrier,0.0966
+1,Aircraft carrier,0.1105
+1,Aircraft carrier,0.0688
+1,Aircraft carrier,0.0923
+1,Aircraft carrier,0.0492
+1,Aircraft carrier,0.0663
+1,Aircraft carrier,0.1002
+1,Aircraft carrier,0.074
+1,Aircraft carrier,0.0373
+2,Submarine,0.0396
+2,Submarine,0.0637
+2,Submarine,0.1077
+2,Submarine,0.0468
+2,Submarine,0.0457
+2,Submarine,0.0925
+2,Submarine,0.6123
+2,Submarine,0.3369
+2,Submarine,0.0877
+2,Submarine,0.0619
+2,Submarine,0.4069
+2,Submarine,0.076
+2,Submarine,0.3537
+2,Submarine,0.0447
+2,Submarine,0.0673
+2,Submarine,0.0516
+2,Submarine,0.102
+2,Submarine,0.0391
+2,Submarine,0.0718
+2,Submarine,0.0932
+2,Submarine,0.087
+2,Submarine,0.2544
+2,Submarine,0.1513
+2,Submarine,0.0182
+2,Submarine,0.0679
+2,Submarine,0.0379
+2,Submarine,0.3591
+2,Submarine,0.5825
+2,Submarine,0.1237
+2,Submarine,0.1654
+2,Submarine,0.0612
+2,Submarine,0.5756
+2,Submarine,0.1062
+2,Submarine,0.0722
+2,Submarine,0.0295
+2,Submarine,0.5814
+2,Submarine,0.0727
+2,Submarine,0.0657
+2,Submarine,0.0963
+2,Submarine,0.0498
+2,Submarine,0.3328
+2,Submarine,0.0112
+2,Submarine,0.0381
+2,Submarine,0.058
+2,Submarine,0.0523
+2,Submarine,0.6021
+2,Submarine,0.5568
+2,Submarine,0.0767
+2,Submarine,0.0734
+2,Submarine,0.0232
+2,Submarine,0.0744
+2,Submarine,0.0426
+2,Submarine,0.1268
+2,Submarine,0.0515
+2,Submarine,0.0723
+2,Submarine,0.0832
+2,Submarine,0.0517
+2,Submarine,0.1276
+2,Submarine,0.0726
+2,Submarine,0.5797
+2,Submarine,0.0402
+2,Submarine,0.3056
+2,Submarine,0.6063
+2,Submarine,0.0573
+2,Submarine,0.5637
+2,Submarine,0.0531
+2,Submarine,0.061
+2,Submarine,0.0387
+2,Submarine,0.0269
+2,Submarine,0.1558
+2,Submarine,0.0409
+2,Submarine,0.6091
+2,Submarine,0.041
+2,Submarine,0.031
+2,Submarine,0.0949
+2,Submarine,0.1392
+2,Submarine,0.6913
+2,Submarine,0.5384
+2,Submarine,0.0367
+2,Submarine,0.0468
+2,Submarine,0.0505
+2,Submarine,0.0603
+2,Submarine,0.4238
+2,Submarine,0.0388
+2,Submarine,0.0505
+2,Submarine,0.0678
+2,Submarine,0.0514
+2,Submarine,0.2161
+2,Submarine,0.0357
+2,Submarine,0.0308
+2,Submarine,0.4534
+2,Submarine,0.0524
+2,Submarine,0.0489
+2,Submarine,0.079
+2,Submarine,0.0183
+2,Submarine,0.0819
+2,Submarine,0.0275
+2,Submarine,0.0757
+2,Submarine,0.0673
+2,Submarine,0.0525
+2,Submarine,0.0878
+2,Submarine,0.1503
+2,Submarine,0.1183
+2,Submarine,0.2046
+2,Submarine,0.0563
+2,Submarine,0.0848
+2,Submarine,0.4693
+2,Submarine,0.0635
+2,Submarine,0.0207
+2,Submarine,0.1144
+2,Submarine,0.0945
+2,Submarine,0.3113
+2,Submarine,0.0267
+2,Submarine,0.106
+2,Submarine,0.0386
+2,Submarine,0.0774
+2,Submarine,0.0544
+2,Submarine,0.0702
+2,Submarine,0.0988
+2,Submarine,0.0738
+2,Submarine,0.1139
+2,Submarine,0.0402
+2,Submarine,0.0817
+2,Submarine,0.0262
+2,Submarine,0.2087
+2,Submarine,0.0538
+2,Submarine,0.0413
+2,Submarine,0.0744
+2,Submarine,0.5506
+2,Submarine,0.5899
+2,Submarine,0.0341
+2,Submarine,0.0856
+2,Submarine,0.0365
+2,Submarine,0.0132
+2,Submarine,0.0439
+2,Submarine,0.0552
+2,Submarine,0.0756
+2,Submarine,0.059
+2,Submarine,0.0646
+2,Submarine,0.5953
+2,Submarine,0.0886
+2,Submarine,0.0498
+2,Submarine,0.0588
+2,Submarine,0.0866
+2,Submarine,0.0385
+2,Submarine,0.0937
+2,Submarine,0.0668
+2,Submarine,0.051
+2,Submarine,0.0952
+2,Submarine,0.0695
+2,Submarine,0.0743
+2,Submarine,0.4008
+2,Submarine,0.0473
+2,Submarine,0.0472
+2,Submarine,0.1253
+2,Submarine,0.1459
+2,Submarine,0.0911
+2,Submarine,0.1614
+2,Submarine,0.1472
+2,Submarine,0.1157
+2,Submarine,0.0267
+2,Submarine,0.0165
+2,Submarine,0.3602
+2,Submarine,0.4516
+2,Submarine,0.0746
+2,Submarine,0.0823
+2,Submarine,0.0908
+2,Submarine,0.1625
+2,Submarine,0.6129
+2,Submarine,0.0734
+2,Submarine,0.0547
+2,Submarine,0.4927
+2,Submarine,0.0355
+2,Submarine,0.0643
+2,Submarine,0.0835
+2,Submarine,0.0323
+2,Submarine,0.0903
+2,Submarine,0.0646
+2,Submarine,0.0635
+2,Submarine,0.13
+2,Submarine,0.1465
+2,Submarine,0.0465
+2,Submarine,0.0582
+2,Submarine,0.1412
+2,Submarine,0.676
+2,Submarine,0.0982
+2,Submarine,0.0887
+2,Submarine,0.1515
+2,Submarine,0.0246
+2,Submarine,0.1383
+3,Medical ship,0.0578
+3,Medical ship,0.0677
+3,Medical ship,0.3009
+3,Medical ship,0.0841
+3,Medical ship,0.0731
+3,Medical ship,0.4252
+3,Medical ship,0.0621
+3,Medical ship,0.229
+3,Medical ship,0.091
+3,Medical ship,0.0307
+3,Medical ship,0.1014
+3,Medical ship,0.0428
+3,Medical ship,0.0447
+3,Medical ship,0.1026
+3,Medical ship,0.069
+3,Medical ship,0.0434
+3,Medical ship,0.1007
+4,Combat boat,0.0951
+4,Combat boat,0.0546
+4,Combat boat,0.0783
+4,Combat boat,0.0895
+4,Combat boat,0.2695
+4,Combat boat,0.0867
+4,Combat boat,0.0437
+4,Combat boat,0.1052
+4,Combat boat,0.5644
+4,Combat boat,0.0909
+4,Combat boat,0.0553
+4,Combat boat,0.0266
+4,Combat boat,0.439
+4,Combat boat,0.5237
+4,Combat boat,0.0663
+4,Combat boat,0.1018
+4,Combat boat,0.0832
+4,Combat boat,0.035
+4,Combat boat,0.0561
+4,Combat boat,0.0437
+4,Combat boat,0.0809
+4,Combat boat,0.1738
+4,Combat boat,0.0216
+4,Combat boat,0.0542
+4,Combat boat,0.0473
+4,Combat boat,0.0751
+4,Combat boat,0.0539
+4,Combat boat,0.0758
+4,Combat boat,0.0792
+4,Combat boat,0.0925
+4,Combat boat,0.0923
+4,Combat boat,0.6373
+4,Combat boat,0.0514
+4,Combat boat,0.1109
+4,Combat boat,0.1213
+4,Combat boat,0.2609
+4,Combat boat,0.0595
+4,Combat boat,0.1303
+4,Combat boat,0.4801
+4,Combat boat,0.0268
+4,Combat boat,0.1086
+4,Combat boat,0.1013
+4,Combat boat,0.2051
+4,Combat boat,0.0569
+4,Combat boat,0.068
+4,Combat boat,0.2932
+4,Combat boat,0.0546
+4,Combat boat,0.0646
+4,Combat boat,0.042
+4,Combat boat,0.0501
+4,Combat boat,0.1593
+4,Combat boat,0.0478
+4,Combat boat,0.0281
+4,Combat boat,0.0568
+4,Combat boat,0.058
+4,Combat boat,0.0435
+4,Combat boat,0.6095
+4,Combat boat,0.5659
+4,Combat boat,0.4605
+4,Combat boat,0.1061
+4,Combat boat,0.4723
+4,Combat boat,0.0611
+4,Combat boat,0.0835
+4,Combat boat,0.1391
+4,Combat boat,0.0407
+4,Combat boat,0.0581
+4,Combat boat,0.0244
+4,Combat boat,0.0744
+4,Combat boat,0.0065
+4,Combat boat,0.083
+4,Combat boat,0.3508
+4,Combat boat,0.0636
+4,Combat boat,0.0624
+4,Combat boat,0.0863
+4,Combat boat,0.1008
+4,Combat boat,0.0455
+4,Combat boat,0.1358
+4,Combat boat,0.0345
+4,Combat boat,0.0618
+4,Combat boat,0.0717
+4,Combat boat,0.0476
+4,Combat boat,0.12
+4,Combat boat,0.0849
+4,Combat boat,0.0305
+4,Combat boat,0.0515
+4,Combat boat,0.0491
+4,Combat boat,0.1395
+4,Combat boat,0.0512
+4,Combat boat,0.1114
+4,Combat boat,0.0197
+4,Combat boat,0.0559
+4,Combat boat,0.0516
+4,Combat boat,0.4265
+4,Combat boat,0.0478
+4,Combat boat,0.0554
+4,Combat boat,0.0597
+4,Combat boat,0.0726
+4,Combat boat,0.0459
+4,Combat boat,0.1623
+4,Combat boat,0.2024
+4,Combat boat,0.0867
+4,Combat boat,0.038
+4,Combat boat,0.0431
+4,Combat boat,0.6591
+4,Combat boat,0.0616
+4,Combat boat,0.3745
+4,Combat boat,0.6765
+4,Combat boat,0.0596
+4,Combat boat,0.0408
+4,Combat boat,0.2061
+4,Combat boat,0.6279
+4,Combat boat,0.0663
+4,Combat boat,0.0969
+4,Combat boat,0.1509
+5,Auxiliary ship,0.0945
+5,Auxiliary ship,0.1035
+5,Auxiliary ship,0.0539
+5,Auxiliary ship,0.035
+5,Auxiliary ship,0.0367
+5,Auxiliary ship,0.0526
+5,Auxiliary ship,0.0671
+5,Auxiliary ship,0.0824
+5,Auxiliary ship,0.0483
+5,Auxiliary ship,0.2221
+5,Auxiliary ship,0.1206
+5,Auxiliary ship,0.0612
+5,Auxiliary ship,0.4456
+5,Auxiliary ship,0.0535
+5,Auxiliary ship,0.0798
+5,Auxiliary ship,0.0682
+5,Auxiliary ship,0.0513
+5,Auxiliary ship,0.067
+5,Auxiliary ship,0.052
+5,Auxiliary ship,0.0685
+5,Auxiliary ship,0.0593
+5,Auxiliary ship,0.4495
+5,Auxiliary ship,0.0477
+5,Auxiliary ship,0.4208
+5,Auxiliary ship,0.0442
+5,Auxiliary ship,0.2044
+5,Auxiliary ship,0.0799
+5,Auxiliary ship,0.055
+5,Auxiliary ship,0.0727
+5,Auxiliary ship,0.2959
+5,Auxiliary ship,0.0819
+5,Auxiliary ship,0.0224
+5,Auxiliary ship,0.1038
+5,Auxiliary ship,0.0906
+5,Auxiliary ship,0.0517
+5,Auxiliary ship,0.0829
+5,Auxiliary ship,0.0597
+5,Auxiliary ship,0.5126
+5,Auxiliary ship,0.053
+5,Auxiliary ship,0.0588
+5,Auxiliary ship,0.023
+5,Auxiliary ship,0.077
+5,Auxiliary ship,0.0957
+5,Auxiliary ship,0.0442
+5,Auxiliary ship,0.0634
+5,Auxiliary ship,0.0637
+5,Auxiliary ship,0.0937
+5,Auxiliary ship,0.1182
+5,Auxiliary ship,0.2263
+5,Auxiliary ship,0.0148
+5,Auxiliary ship,0.0426
+5,Auxiliary ship,0.1922
+5,Auxiliary ship,0.0888
+5,Auxiliary ship,0.0836
+5,Auxiliary ship,0.0765
+5,Auxiliary ship,0.077
+5,Auxiliary ship,0.0283
+5,Auxiliary ship,0.088
+5,Auxiliary ship,0.0688
+5,Auxiliary ship,0.0287
+5,Auxiliary ship,0.0741
+5,Auxiliary ship,0.1022
+5,Auxiliary ship,0.0533
+5,Auxiliary ship,0.0386
+5,Auxiliary ship,0.0605
+5,Auxiliary ship,0.2139
+5,Auxiliary ship,0.053
+5,Auxiliary ship,0.0551
+5,Auxiliary ship,0.0769
+5,Auxiliary ship,0.2729
+5,Auxiliary ship,0.0324
+5,Auxiliary ship,0.0882
+5,Auxiliary ship,0.1529
+5,Auxiliary ship,0.0611
+5,Auxiliary ship,0.3986
+5,Auxiliary ship,0.0331
+5,Auxiliary ship,0.2866
+5,Auxiliary ship,0.0451
+5,Auxiliary ship,0.046
+5,Auxiliary ship,0.1104
+5,Auxiliary ship,0.0485
+5,Auxiliary ship,0.0334
+5,Auxiliary ship,0.0665
+5,Auxiliary ship,0.0299
+5,Auxiliary ship,0.069
+5,Auxiliary ship,0.5559
+5,Auxiliary ship,0.0418
+5,Auxiliary ship,0.2919
+5,Auxiliary ship,0.0249
+5,Auxiliary ship,0.0337
+5,Auxiliary ship,0.0786
+5,Auxiliary ship,0.0627
+5,Auxiliary ship,0.09
+5,Auxiliary ship,0.0787
+5,Auxiliary ship,0.1812
+5,Auxiliary ship,0.0759
+5,Auxiliary ship,0.0765
+5,Auxiliary ship,0.0694
+5,Auxiliary ship,0.0641
+5,Auxiliary ship,0.1062
+5,Auxiliary ship,0.0641
+5,Auxiliary ship,0.0871
+5,Auxiliary ship,0.2572
+5,Auxiliary ship,0.0775
+5,Auxiliary ship,0.0482
+5,Auxiliary ship,0.0478
+5,Auxiliary ship,0.0723
+5,Auxiliary ship,0.0603
+5,Auxiliary ship,0.0746
+5,Auxiliary ship,0.0478
+5,Auxiliary ship,0.0692
+5,Auxiliary ship,0.0574
+5,Auxiliary ship,0.0951
+5,Auxiliary ship,0.0497
+5,Auxiliary ship,0.0643
+5,Auxiliary ship,0.0421
+5,Auxiliary ship,0.0609
+5,Auxiliary ship,0.0632
+5,Auxiliary ship,0.2774
+5,Auxiliary ship,0.0681
+5,Auxiliary ship,0.0516
+5,Auxiliary ship,0.1298
+5,Auxiliary ship,0.0939
+5,Auxiliary ship,0.0671
+5,Auxiliary ship,0.0403
+5,Auxiliary ship,0.1338
+5,Auxiliary ship,0.0745
+5,Auxiliary ship,0.4787
+5,Auxiliary ship,0.0814
+5,Auxiliary ship,0.0776
+5,Auxiliary ship,0.0727
+5,Auxiliary ship,0.0582
+5,Auxiliary ship,0.0812
+5,Auxiliary ship,0.0449
+5,Auxiliary ship,0.0473
+5,Auxiliary ship,0.0609
+5,Auxiliary ship,0.0765
+5,Auxiliary ship,0.0726
+5,Auxiliary ship,0.0601
+5,Auxiliary ship,0.0495
+5,Auxiliary ship,0.0681
+5,Auxiliary ship,0.0365
+5,Auxiliary ship,0.0738
+5,Auxiliary ship,0.3093
+5,Auxiliary ship,0.0339
+5,Auxiliary ship,0.0311
+5,Auxiliary ship,0.507
+5,Auxiliary ship,0.0678
+5,Auxiliary ship,0.0797
+5,Auxiliary ship,0.0592
+5,Auxiliary ship,0.1069
+5,Auxiliary ship,0.0365
+5,Auxiliary ship,0.0057
+5,Auxiliary ship,0.0705
+5,Auxiliary ship,0.0746
+5,Auxiliary ship,0.0827
+5,Auxiliary ship,0.0808
+5,Auxiliary ship,0.058
+5,Auxiliary ship,0.1055
+5,Auxiliary ship,0.1229
+5,Auxiliary ship,0.0886
+5,Auxiliary ship,0.0592
+5,Auxiliary ship,0.0301
+5,Auxiliary ship,0.0437
+5,Auxiliary ship,0.0946
+5,Auxiliary ship,0.5775
+5,Auxiliary ship,0.434
+5,Auxiliary ship,0.0877
+5,Auxiliary ship,0.0922
+5,Auxiliary ship,0.0625
+5,Auxiliary ship,0.4543
+5,Auxiliary ship,0.4308
+5,Auxiliary ship,0.0515
+5,Auxiliary ship,0.5584
+5,Auxiliary ship,0.0555
+5,Auxiliary ship,0.5532
+5,Auxiliary ship,0.0282
+5,Auxiliary ship,0.0712
+5,Auxiliary ship,0.0313
+5,Auxiliary ship,0.2409
+6,Container ship,0.0197
+6,Container ship,0.1255
+6,Container ship,0.2737
+6,Container ship,0.0498
+6,Container ship,0.0611
+6,Container ship,0.052
+6,Container ship,0.0684
+6,Container ship,0.0494
+6,Container ship,0.1099
+6,Container ship,0.5405
+6,Container ship,0.6173
+6,Container ship,0.6158
+6,Container ship,0.1599
+6,Container ship,0.0899
+6,Container ship,0.0997
+6,Container ship,0.1661
+6,Container ship,0.0301
+6,Container ship,0.0522
+6,Container ship,0.0763
+6,Container ship,0.0744
+6,Container ship,0.3731
+6,Container ship,0.0606
+6,Container ship,0.0733
+6,Container ship,0.0667
+6,Container ship,0.046
+6,Container ship,0.0371
+6,Container ship,0.08
+6,Container ship,0.0994
+6,Container ship,0.2645
+6,Container ship,0.0709
+6,Container ship,0.0769
+6,Container ship,0.6443
+6,Container ship,0.0381
+6,Container ship,0.0702
+6,Container ship,0.0497
+6,Container ship,0.0411
+6,Container ship,0.0914
+6,Container ship,0.0522
+6,Container ship,0.0722
+6,Container ship,0.2224
+6,Container ship,0.0265
+6,Container ship,0.0437
+6,Container ship,0.0804
+6,Container ship,0.0591
+6,Container ship,0.3695
+6,Container ship,0.055
+6,Container ship,0.0809
+6,Container ship,0.0319
+6,Container ship,0.0685
+6,Container ship,0.0639
+6,Container ship,0.0465
+6,Container ship,0.0459
+6,Container ship,0.0743
+6,Container ship,0.386
+6,Container ship,0.0098
+6,Container ship,0.0545
+6,Container ship,0.0728
+6,Container ship,0.0794
+6,Container ship,0.4049
+6,Container ship,0.1026
+6,Container ship,0.0429
+6,Container ship,0.0583
+6,Container ship,0.0915
+6,Container ship,0.0737
+6,Container ship,0.1849
+6,Container ship,0.0817
+6,Container ship,0.2478
+6,Container ship,0.094
+6,Container ship,0.0762
+6,Container ship,0.069
+6,Container ship,0.0721
+6,Container ship,0.062
+6,Container ship,0.1165
+6,Container ship,0.0449
+6,Container ship,0.0328
+6,Container ship,0.0621
+6,Container ship,0.0598
+6,Container ship,0.0408
+6,Container ship,0.0691
+6,Container ship,0.0828
+6,Container ship,0.0374
+7,Car carrier,0.0527
+7,Car carrier,0.0489
+7,Car carrier,0.0345
+7,Car carrier,0.0963
+7,Car carrier,0.0805
+7,Car carrier,0.0568
+7,Car carrier,0.088
+7,Car carrier,0.4657
+7,Car carrier,0.0251
+7,Car carrier,0.1084
+7,Car carrier,0.0956
+7,Car carrier,0.5461
+7,Car carrier,0.051
+7,Car carrier,0.0668
+7,Car carrier,0.0519
+7,Car carrier,0.1267
+7,Car carrier,0.0502
+7,Car carrier,0.0402
+7,Car carrier,0.0614
+7,Car carrier,0.0539
+7,Car carrier,0.0245
+7,Car carrier,0.0477
+7,Car carrier,0.0479
+7,Car carrier,0.0346
+7,Car carrier,0.0892
+7,Car carrier,0.1348
+7,Car carrier,0.5641
+7,Car carrier,0.1039
+7,Car carrier,0.0585
+7,Car carrier,0.0814
+7,Car carrier,0.3089
+7,Car carrier,0.0712
+7,Car carrier,0.0639
+7,Car carrier,0.1008
+7,Car carrier,0.0547
+7,Car carrier,0.0367
+7,Car carrier,0.0386
+7,Car carrier,0.054
+7,Car carrier,0.0528
+7,Car carrier,0.1015
+7,Car carrier,0.0401
+7,Car carrier,0.0812
+7,Car carrier,0.6198
+7,Car carrier,0.08
+7,Car carrier,0.0702
+7,Car carrier,0.0452
+7,Car carrier,0.0693
+7,Car carrier,0.0605
+7,Car carrier,0.3569
+7,Car carrier,0.071
+7,Car carrier,0.0204
+7,Car carrier,0.0524
+7,Car carrier,0.6295
+7,Car carrier,0.0377
+7,Car carrier,0.0738
+7,Car carrier,0.5017
+7,Car carrier,0.0376
+7,Car carrier,0.0587
+8,Hovercraft,0.0438
+8,Hovercraft,0.584
+8,Hovercraft,0.0331
+8,Hovercraft,0.0498
+8,Hovercraft,0.0655
+8,Hovercraft,0.0427
+8,Hovercraft,0.0556
+8,Hovercraft,0.0893
+8,Hovercraft,0.0781
+8,Hovercraft,0.066
+8,Hovercraft,0.0464
+8,Hovercraft,0.0287
+8,Hovercraft,0.4458
+8,Hovercraft,0.0762
+8,Hovercraft,0.0711
+8,Hovercraft,0.0464
+8,Hovercraft,0.4996
+8,Hovercraft,0.0906
+8,Hovercraft,0.0426
+8,Hovercraft,0.03
+8,Hovercraft,0.0947
+8,Hovercraft,0.0308
+8,Hovercraft,0.0456
+8,Hovercraft,0.1118
+8,Hovercraft,0.4605
+8,Hovercraft,0.0463
+8,Hovercraft,0.3002
+8,Hovercraft,0.0764
+8,Hovercraft,0.2261
+8,Hovercraft,0.057
+8,Hovercraft,0.0516
+8,Hovercraft,0.0524
+8,Hovercraft,0.0419
+8,Hovercraft,0.1475
+8,Hovercraft,0.0415
+8,Hovercraft,0.3102
+8,Hovercraft,0.0572
+8,Hovercraft,0.0756
+8,Hovercraft,0.0372
+8,Hovercraft,0.0302
+8,Hovercraft,0.0413
+8,Hovercraft,0.0507
+8,Hovercraft,0.0557
+8,Hovercraft,0.0556
+8,Hovercraft,0.3509
+8,Hovercraft,0.0686
+8,Hovercraft,0.0617
+8,Hovercraft,0.0662
+8,Hovercraft,0.0958
+8,Hovercraft,0.0204
+8,Hovercraft,0.0667
+8,Hovercraft,0.0401
+8,Hovercraft,0.0648
+8,Hovercraft,0.0664
+8,Hovercraft,0.1331
+8,Hovercraft,0.0778
+8,Hovercraft,0.0737
+8,Hovercraft,0.0658
+8,Hovercraft,0.0607
+8,Hovercraft,0.0157
+8,Hovercraft,0.1307
+8,Hovercraft,0.634
+8,Hovercraft,0.3251
+8,Hovercraft,0.4569
+8,Hovercraft,0.0496
+8,Hovercraft,0.4209
+8,Hovercraft,0.0658
+8,Hovercraft,0.0776
+8,Hovercraft,0.0482
+8,Hovercraft,0.0912
+8,Hovercraft,0.0895
+8,Hovercraft,0.0617
+8,Hovercraft,0.08
+8,Hovercraft,0.0449
+8,Hovercraft,0.0336
+8,Hovercraft,0.0759
+8,Hovercraft,0.0262
+8,Hovercraft,0.0217
+8,Hovercraft,0.0782
+8,Hovercraft,0.0689
+8,Hovercraft,0.0456
+8,Hovercraft,0.0906
+8,Hovercraft,0.1209
+8,Hovercraft,0.054
+8,Hovercraft,0.0536
+8,Hovercraft,0.0588
+8,Hovercraft,0.1595
+8,Hovercraft,0.0208
+8,Hovercraft,0.0768
+8,Hovercraft,0.1192
+8,Hovercraft,0.0789
+8,Hovercraft,0.0964
+8,Hovercraft,0.104
+8,Hovercraft,0.0359
+8,Hovercraft,0.0621
+8,Hovercraft,0.0619
+9,Bulk carrier,0.0698
+9,Bulk carrier,0.0739
+9,Bulk carrier,0.439
+9,Bulk carrier,0.0381
+9,Bulk carrier,0.0583
+9,Bulk carrier,0.0569
+9,Bulk carrier,0.109
+9,Bulk carrier,0.4664
+9,Bulk carrier,0.0542
+9,Bulk carrier,0.083
+9,Bulk carrier,0.0335
+9,Bulk carrier,0.0654
+9,Bulk carrier,0.0507
+9,Bulk carrier,0.1046
+9,Bulk carrier,0.033
+9,Bulk carrier,0.0369
+9,Bulk carrier,0.0742
+9,Bulk carrier,0.0537
+9,Bulk carrier,0.0748
+9,Bulk carrier,0.072
+9,Bulk carrier,0.0947
+9,Bulk carrier,0.0591
+9,Bulk carrier,0.067
+9,Bulk carrier,0.0648
+9,Bulk carrier,0.0258
+9,Bulk carrier,0.0589
+9,Bulk carrier,0.1328
+9,Bulk carrier,0.4582
+9,Bulk carrier,0.0906
+9,Bulk carrier,0.0968
+9,Bulk carrier,0.0232
+9,Bulk carrier,0.0662
+9,Bulk carrier,0.0493
+9,Bulk carrier,0.081
+9,Bulk carrier,0.2433
+9,Bulk carrier,0.0652
+9,Bulk carrier,0.0309
+9,Bulk carrier,0.0582
+9,Bulk carrier,0.0638
+9,Bulk carrier,0.4215
+9,Bulk carrier,0.0481
+9,Bulk carrier,0.0781
+9,Bulk carrier,0.3803
+9,Bulk carrier,0.0382
+9,Bulk carrier,0.0927
+9,Bulk carrier,0.0561
+9,Bulk carrier,0.0904
+9,Bulk carrier,0.0578
+9,Bulk carrier,0.0583
+9,Bulk carrier,0.0193
+9,Bulk carrier,0.0554
+9,Bulk carrier,0.4474
+9,Bulk carrier,0.0603
+9,Bulk carrier,0.6466
+9,Bulk carrier,0.0499
+9,Bulk carrier,0.0861
+9,Bulk carrier,0.0982
+9,Bulk carrier,0.1036
+9,Bulk carrier,0.0615
+9,Bulk carrier,0.3263
+9,Bulk carrier,0.2593
+9,Bulk carrier,0.1935
+9,Bulk carrier,0.0368
+9,Bulk carrier,0.0983
+9,Bulk carrier,0.4485
+9,Bulk carrier,0.2445
+9,Bulk carrier,0.2303
+9,Bulk carrier,0.0571
+9,Bulk carrier,0.0444
+9,Bulk carrier,0.0665
+9,Bulk carrier,0.0579
+9,Bulk carrier,0.0621
+9,Bulk carrier,0.013
+9,Bulk carrier,0.0534
+9,Bulk carrier,0.0952
+9,Bulk carrier,0.1586
+9,Bulk carrier,0.0668
+9,Bulk carrier,0.0273
+9,Bulk carrier,0.1269
+9,Bulk carrier,0.1323
+9,Bulk carrier,0.114
+9,Bulk carrier,0.5446
+9,Bulk carrier,0.2429
+9,Bulk carrier,0.0773
+9,Bulk carrier,0.6276
+9,Bulk carrier,0.1004
+9,Bulk carrier,0.6003
+9,Bulk carrier,0.0998
+9,Bulk carrier,0.2993
+9,Bulk carrier,0.027
+9,Bulk carrier,0.0849
+9,Bulk carrier,0.0213
+9,Bulk carrier,0.1529
+9,Bulk carrier,0.6331
+9,Bulk carrier,0.4149
+9,Bulk carrier,0.084
+9,Bulk carrier,0.0696
+9,Bulk carrier,0.0362
+9,Bulk carrier,0.0277
+9,Bulk carrier,0.0438
+9,Bulk carrier,0.0789
+9,Bulk carrier,0.1925
+9,Bulk carrier,0.0232
+9,Bulk carrier,0.0923
+9,Bulk carrier,0.3323
+9,Bulk carrier,0.0298
+9,Bulk carrier,0.2571
+9,Bulk carrier,0.0605
+9,Bulk carrier,0.108
+9,Bulk carrier,0.07
+9,Bulk carrier,0.3416
+9,Bulk carrier,0.0456
+9,Bulk carrier,0.092
+9,Bulk carrier,0.5638
+9,Bulk carrier,0.3681
+9,Bulk carrier,0.0746
+9,Bulk carrier,0.0549
+9,Bulk carrier,0.0794
+9,Bulk carrier,0.0759
+9,Bulk carrier,0.0335
+9,Bulk carrier,0.0681
+9,Bulk carrier,0.0377
+9,Bulk carrier,0.0714
+9,Bulk carrier,0.5836
+9,Bulk carrier,0.0664
+9,Bulk carrier,0.2176
+9,Bulk carrier,0.5587
+9,Bulk carrier,0.0327
+9,Bulk carrier,0.0789
+9,Bulk carrier,0.0241
+9,Bulk carrier,0.6067
+9,Bulk carrier,0.0683
+9,Bulk carrier,0.0723
+9,Bulk carrier,0.0761
+9,Bulk carrier,0.0283
+9,Bulk carrier,0.0548
+9,Bulk carrier,0.1297
+9,Bulk carrier,0.2997
+9,Bulk carrier,0.0554
+9,Bulk carrier,0.0488
+9,Bulk carrier,0.2043
+9,Bulk carrier,0.0198
+9,Bulk carrier,0.0041
+9,Bulk carrier,0.0403
+9,Bulk carrier,0.0128
+9,Bulk carrier,0.1259
+9,Bulk carrier,0.0616
+9,Bulk carrier,0.0318
+9,Bulk carrier,0.0886
+9,Bulk carrier,0.04
+9,Bulk carrier,0.6331
+9,Bulk carrier,0.0968
+9,Bulk carrier,0.0216
+9,Bulk carrier,0.0322
+9,Bulk carrier,0.0604
+9,Bulk carrier,0.0723
+9,Bulk carrier,0.0095
+9,Bulk carrier,0.0872
+9,Bulk carrier,0.4269
+9,Bulk carrier,0.0911
+9,Bulk carrier,0.0546
+9,Bulk carrier,0.042
+9,Bulk carrier,0.0457
+9,Bulk carrier,0.0615
+9,Bulk carrier,0.063
+9,Bulk carrier,0.6093
+9,Bulk carrier,0.3397
+9,Bulk carrier,0.5939
+9,Bulk carrier,0.0829
+9,Bulk carrier,0.0675
+9,Bulk carrier,0.0893
+9,Bulk carrier,0.0148
+9,Bulk carrier,0.0323
+9,Bulk carrier,0.0352
+9,Bulk carrier,0.0395
+9,Bulk carrier,0.0515
+9,Bulk carrier,0.06
+9,Bulk carrier,0.0988
+9,Bulk carrier,0.0562
+9,Bulk carrier,0.4214
+9,Bulk carrier,0.087
+9,Bulk carrier,0.0669
+9,Bulk carrier,0.0552
+9,Bulk carrier,0.0601
+9,Bulk carrier,0.08
+9,Bulk carrier,0.081
+9,Bulk carrier,0.0455
+9,Bulk carrier,0.0231
+9,Bulk carrier,0.2267
+9,Bulk carrier,0.0741
+9,Bulk carrier,0.3814
+9,Bulk carrier,0.0677
+9,Bulk carrier,0.1281
+9,Bulk carrier,0.1051
+9,Bulk carrier,0.1002
+9,Bulk carrier,0.0496
+9,Bulk carrier,0.0216
+9,Bulk carrier,0.0438
+9,Bulk carrier,0.1812
+9,Bulk carrier,0.0765
+9,Bulk carrier,0.08
+9,Bulk carrier,0.6416
+9,Bulk carrier,0.0812
+9,Bulk carrier,0.2062
+9,Bulk carrier,0.4463
+9,Bulk carrier,0.6271
+9,Bulk carrier,0.0327
+9,Bulk carrier,0.0658
+9,Bulk carrier,0.0682
+9,Bulk carrier,0.0108
+9,Bulk carrier,0.0929
+9,Bulk carrier,0.1155
+9,Bulk carrier,0.0782
+9,Bulk carrier,0.0539
+9,Bulk carrier,0.4928
+9,Bulk carrier,0.0789
+9,Bulk carrier,0.1006
+9,Bulk carrier,0.0547
+9,Bulk carrier,0.0725
+9,Bulk carrier,0.0592
+9,Bulk carrier,0.0067
+9,Bulk carrier,0.0529
+9,Bulk carrier,0.0178
+9,Bulk carrier,0.1133
+9,Bulk carrier,0.0661
+9,Bulk carrier,0.075
+9,Bulk carrier,0.6092
+9,Bulk carrier,0.4229
+9,Bulk carrier,0.0387
+9,Bulk carrier,0.0857
+9,Bulk carrier,0.0232
+9,Bulk carrier,0.0647
+9,Bulk carrier,0.4073
+9,Bulk carrier,0.2648
+9,Bulk carrier,0.1001
+9,Bulk carrier,0.0339
+9,Bulk carrier,0.0395
+9,Bulk carrier,0.0137
+9,Bulk carrier,0.0504
+9,Bulk carrier,0.119
+9,Bulk carrier,0.1216
+9,Bulk carrier,0.0649
+9,Bulk carrier,0.0437
+9,Bulk carrier,0.0479
+9,Bulk carrier,0.4833
+9,Bulk carrier,0.0997
+9,Bulk carrier,0.0179
+9,Bulk carrier,0.0598
+9,Bulk carrier,0.0954
+9,Bulk carrier,0.067
+9,Bulk carrier,0.0283
+9,Bulk carrier,0.0832
+9,Bulk carrier,0.0147
+9,Bulk carrier,0.0787
+9,Bulk carrier,0.0676
+9,Bulk carrier,0.087
+9,Bulk carrier,0.0998
+9,Bulk carrier,0.0656
+9,Bulk carrier,0.0324
+9,Bulk carrier,0.4648
+9,Bulk carrier,0.1049
+9,Bulk carrier,0.0386
+9,Bulk carrier,0.04
+9,Bulk carrier,0.066
+9,Bulk carrier,0.0421
+9,Bulk carrier,0.0924
+9,Bulk carrier,0.057
+9,Bulk carrier,0.1631
+9,Bulk carrier,0.0567
+9,Bulk carrier,0.4489
+9,Bulk carrier,0.075
+9,Bulk carrier,0.0658
+9,Bulk carrier,0.0394
+9,Bulk carrier,0.0267
+10,Oil tanker,0.4209
+10,Oil tanker,0.7021
+10,Oil tanker,0.0468
+10,Oil tanker,0.06
+10,Oil tanker,0.0989
+10,Oil tanker,0.0349
+10,Oil tanker,0.0753
+10,Oil tanker,0.0846
+10,Oil tanker,0.0551
+10,Oil tanker,0.0419
+10,Oil tanker,0.1186
+10,Oil tanker,0.026
+10,Oil tanker,0.0859
+10,Oil tanker,0.1113
+10,Oil tanker,0.6072
+10,Oil tanker,0.0979
+10,Oil tanker,0.5983
+10,Oil tanker,0.5635
+10,Oil tanker,0.0451
+10,Oil tanker,0.0575
+10,Oil tanker,0.1786
+10,Oil tanker,0.0692
+10,Oil tanker,0.0825
+10,Oil tanker,0.062
+10,Oil tanker,0.1107
+10,Oil tanker,0.0664
+10,Oil tanker,0.5852
+10,Oil tanker,0.0336
+10,Oil tanker,0.0726
+10,Oil tanker,0.1139
+10,Oil tanker,0.6244
+10,Oil tanker,0.0804
+10,Oil tanker,0.2863
+10,Oil tanker,0.0563
+10,Oil tanker,0.05
+10,Oil tanker,0.059
+10,Oil tanker,0.0343
+10,Oil tanker,0.0846
+10,Oil tanker,0.0786
+10,Oil tanker,0.0467
+10,Oil tanker,0.0136
+10,Oil tanker,0.3555
+10,Oil tanker,0.0743
+10,Oil tanker,0.5847
+10,Oil tanker,0.5773
+10,Oil tanker,0.0645
+10,Oil tanker,0.0798
+10,Oil tanker,0.0345
+10,Oil tanker,0.0548
+10,Oil tanker,0.4308
+10,Oil tanker,0.082
+10,Oil tanker,0.0738
+10,Oil tanker,0.2857
+10,Oil tanker,0.0571
+10,Oil tanker,0.0539
+10,Oil tanker,0.066
+10,Oil tanker,0.4138
+10,Oil tanker,0.104
+10,Oil tanker,0.0239
+10,Oil tanker,0.0742
+10,Oil tanker,0.6557
+10,Oil tanker,0.0439
+10,Oil tanker,0.0882
+10,Oil tanker,0.0866
+10,Oil tanker,0.1249
+10,Oil tanker,0.0713
+10,Oil tanker,0.0517
+10,Oil tanker,0.2244
+10,Oil tanker,0.0773
+10,Oil tanker,0.0455
+10,Oil tanker,0.1241
+10,Oil tanker,0.057
+10,Oil tanker,0.0573
+10,Oil tanker,0.1218
+10,Oil tanker,0.1343
+10,Oil tanker,0.2151
+10,Oil tanker,0.0692
+10,Oil tanker,0.0692
+10,Oil tanker,0.1688
+10,Oil tanker,0.0989
+10,Oil tanker,0.1606
+10,Oil tanker,0.0966
+10,Oil tanker,0.0643
+10,Oil tanker,0.0417
+10,Oil tanker,0.0654
+10,Oil tanker,0.0784
+10,Oil tanker,0.0419
+10,Oil tanker,0.2044
+10,Oil tanker,0.0548
+10,Oil tanker,0.0739
+10,Oil tanker,0.0626
+10,Oil tanker,0.045
+10,Oil tanker,0.0931
+10,Oil tanker,0.0629
+10,Oil tanker,0.0865
+10,Oil tanker,0.0798
+10,Oil tanker,0.0557
+10,Oil tanker,0.0434
+10,Oil tanker,0.1956
+10,Oil tanker,0.0374
+10,Oil tanker,0.088
+10,Oil tanker,0.0423
+10,Oil tanker,0.1071
+10,Oil tanker,0.245
+10,Oil tanker,0.1642
+10,Oil tanker,0.5601
+10,Oil tanker,0.0959
+10,Oil tanker,0.0405
+10,Oil tanker,0.0935
+10,Oil tanker,0.0712
+10,Oil tanker,0.0569
+10,Oil tanker,0.0477
+10,Oil tanker,0.3468
+10,Oil tanker,0.2319
+10,Oil tanker,0.0485
+10,Oil tanker,0.1512
+10,Oil tanker,0.0401
+10,Oil tanker,0.5631
+10,Oil tanker,0.0488
+10,Oil tanker,0.0221
+10,Oil tanker,0.1358
+10,Oil tanker,0.0334
+10,Oil tanker,0.0453
+10,Oil tanker,0.0128
+10,Oil tanker,0.0726
+10,Oil tanker,0.0982
+10,Oil tanker,0.0391
+10,Oil tanker,0.3108
+10,Oil tanker,0.5809
+10,Oil tanker,0.0513
+10,Oil tanker,0.1656
+10,Oil tanker,0.0607
+11,Fishing boat,0.0929
+11,Fishing boat,0.0381
+11,Fishing boat,0.0496
+11,Fishing boat,0.0651
+11,Fishing boat,0.4373
+11,Fishing boat,0.0797
+11,Fishing boat,0.0449
+11,Fishing boat,0.1051
+11,Fishing boat,0.0965
+11,Fishing boat,0.0911
+11,Fishing boat,0.0508
+11,Fishing boat,0.1387
+11,Fishing boat,0.4171
+11,Fishing boat,0.0331
+11,Fishing boat,0.1168
+11,Fishing boat,0.0269
+11,Fishing boat,0.0527
+11,Fishing boat,0.0564
+11,Fishing boat,0.0901
+11,Fishing boat,0.0375
+11,Fishing boat,0.0781
+11,Fishing boat,0.0671
+11,Fishing boat,0.0332
+11,Fishing boat,0.052
+11,Fishing boat,0.2003
+11,Fishing boat,0.0884
+11,Fishing boat,0.0431
+11,Fishing boat,0.4303
+11,Fishing boat,0.0781
+11,Fishing boat,0.1043
+11,Fishing boat,0.0539
+11,Fishing boat,0.09
+11,Fishing boat,0.0643
+11,Fishing boat,0.0659
+11,Fishing boat,0.0938
+11,Fishing boat,0.0732
+11,Fishing boat,0.0277
+11,Fishing boat,0.064
+11,Fishing boat,0.0574
+11,Fishing boat,0.0586
+11,Fishing boat,0.0992
+11,Fishing boat,0.3612
+11,Fishing boat,0.1191
+11,Fishing boat,0.0588
+11,Fishing boat,0.0331
+11,Fishing boat,0.1102
+11,Fishing boat,0.0491
+11,Fishing boat,0.0703
+11,Fishing boat,0.0322
+11,Fishing boat,0.0484
+11,Fishing boat,0.0778
+11,Fishing boat,0.05
+11,Fishing boat,0.0256
+11,Fishing boat,0.1204
+11,Fishing boat,0.0619
+11,Fishing boat,0.0511
+11,Fishing boat,0.3918
+11,Fishing boat,0.6161
+11,Fishing boat,0.0782
+11,Fishing boat,0.306
+11,Fishing boat,0.0371
+11,Fishing boat,0.0411
+11,Fishing boat,0.3099
+11,Fishing boat,0.0914
+11,Fishing boat,0.731
+11,Fishing boat,0.0602
+11,Fishing boat,0.324
+11,Fishing boat,0.1296
+11,Fishing boat,0.3998
+11,Fishing boat,0.412
+11,Fishing boat,0.2289
+11,Fishing boat,0.0365
+11,Fishing boat,0.1356
+11,Fishing boat,0.07
+11,Fishing boat,0.3599
+11,Fishing boat,0.0138
+11,Fishing boat,0.0625
+11,Fishing boat,0.0871
+11,Fishing boat,0.0871
+11,Fishing boat,0.11
+11,Fishing boat,0.1018
+11,Fishing boat,0.0557
+12,Destroyer,0.0523
+12,Destroyer,0.0412
+12,Destroyer,0.0136
+12,Destroyer,0.0746
+12,Destroyer,0.0627
+12,Destroyer,0.2341
+12,Destroyer,0.0814
+12,Destroyer,0.1086
+12,Destroyer,0.1014
+12,Destroyer,0.0761
+12,Destroyer,0.1091
+12,Destroyer,0.0587
+12,Destroyer,0.0894
+12,Destroyer,0.1067
+12,Destroyer,0.3902
+12,Destroyer,0.0859
+12,Destroyer,0.5271
+12,Destroyer,0.0626
+12,Destroyer,0.258
+12,Destroyer,0.0711
+12,Destroyer,0.0361
+12,Destroyer,0.5038
+12,Destroyer,0.049
+12,Destroyer,0.0764
+12,Destroyer,0.0802
+12,Destroyer,0.0628
+12,Destroyer,0.0522
+12,Destroyer,0.0814
+12,Destroyer,0.1008
+12,Destroyer,0.0757
+12,Destroyer,0.0573
+12,Destroyer,0.0589
+12,Destroyer,0.1381
+12,Destroyer,0.0799
+12,Destroyer,0.059
+12,Destroyer,0.1043
+12,Destroyer,0.0498
+12,Destroyer,0.1152
+12,Destroyer,0.0867
+12,Destroyer,0.1098
+12,Destroyer,0.0476
+12,Destroyer,0.0717
+12,Destroyer,0.0985
+12,Destroyer,0.6659
+12,Destroyer,0.0518
+12,Destroyer,0.067
+12,Destroyer,0.0367
+12,Destroyer,0.0584
+12,Destroyer,0.0712
+12,Destroyer,0.0486
+12,Destroyer,0.0775
+12,Destroyer,0.6106
+12,Destroyer,0.0884
+12,Destroyer,0.0592
+12,Destroyer,0.0302
+12,Destroyer,0.0214
+12,Destroyer,0.0576
+12,Destroyer,0.0737
+12,Destroyer,0.0393
+12,Destroyer,0.061
+12,Destroyer,0.4605
+12,Destroyer,0.0238
+12,Destroyer,0.25
+12,Destroyer,0.0236
+12,Destroyer,0.0871
+12,Destroyer,0.0415
+12,Destroyer,0.0762
+12,Destroyer,0.0774
+12,Destroyer,0.3372
+12,Destroyer,0.0615
+12,Destroyer,0.5973
+12,Destroyer,0.0172
+12,Destroyer,0.0324
+12,Destroyer,0.6314
+12,Destroyer,0.0491
+12,Destroyer,0.0732
+12,Destroyer,0.0401
+12,Destroyer,0.0236
+12,Destroyer,0.0556
+12,Destroyer,0.1089
+12,Destroyer,0.0548
+12,Destroyer,0.0794
+12,Destroyer,0.0616
+12,Destroyer,0.0239
+12,Destroyer,0.019
+12,Destroyer,0.0923
+12,Destroyer,0.0322
+12,Destroyer,0.0727
+12,Destroyer,0.0478
+12,Destroyer,0.0804
+12,Destroyer,0.0849
+12,Destroyer,0.0421
+12,Destroyer,0.037
+12,Destroyer,0.0496
+12,Destroyer,0.0474
+12,Destroyer,0.2463
+12,Destroyer,0.0263
+12,Destroyer,0.341
+12,Destroyer,0.2987
+12,Destroyer,0.0352
+12,Destroyer,0.0223
+12,Destroyer,0.0531
+12,Destroyer,0.015
+12,Destroyer,0.0716
+12,Destroyer,0.0485
+12,Destroyer,0.0446
+12,Destroyer,0.0798
+12,Destroyer,0.0815
+12,Destroyer,0.112
+12,Destroyer,0.5347
+12,Destroyer,0.0639
+12,Destroyer,0.2944
+12,Destroyer,0.3603
+12,Destroyer,0.2977
+12,Destroyer,0.0764
+12,Destroyer,0.0853
+12,Destroyer,0.0403
+12,Destroyer,0.0761
+12,Destroyer,0.5817
+12,Destroyer,0.0213
+12,Destroyer,0.0228
+12,Destroyer,0.0428
+12,Destroyer,0.3119
+12,Destroyer,0.2275
+12,Destroyer,0.0681
+12,Destroyer,0.2133
+12,Destroyer,0.0304
+12,Destroyer,0.6723
+12,Destroyer,0.0199
+12,Destroyer,0.1454
+12,Destroyer,0.1134
+12,Destroyer,0.6282
+12,Destroyer,0.5595
+12,Destroyer,0.0903
+12,Destroyer,0.6417
+12,Destroyer,0.5101
+12,Destroyer,0.0655
+12,Destroyer,0.0732
+12,Destroyer,0.0669
+12,Destroyer,0.0447
+12,Destroyer,0.1121
+12,Destroyer,0.0576
+12,Destroyer,0.507
+12,Destroyer,0.1552
+12,Destroyer,0.0334
+12,Destroyer,0.0663
+12,Destroyer,0.482
+12,Destroyer,0.0534
+12,Destroyer,0.0946
+12,Destroyer,0.0515
+12,Destroyer,0.3662
+12,Destroyer,0.02
+12,Destroyer,0.0468
+12,Destroyer,0.048
+12,Destroyer,0.3636
+12,Destroyer,0.035
+12,Destroyer,0.0192
+12,Destroyer,0.0865
+12,Destroyer,0.0262
+12,Destroyer,0.0475
+12,Destroyer,0.0565
+12,Destroyer,0.1013
+12,Destroyer,0.0256
+12,Destroyer,0.059
+12,Destroyer,0.5394
+12,Destroyer,0.0289
+12,Destroyer,0.093
+12,Destroyer,0.1074
+12,Destroyer,0.031
+12,Destroyer,0.1397
+12,Destroyer,0.041
+12,Destroyer,0.5762
+12,Destroyer,0.6327
+12,Destroyer,0.0296
+12,Destroyer,0.0827
+12,Destroyer,0.5521
+12,Destroyer,0.1037
+12,Destroyer,0.0672
+12,Destroyer,0.083
+12,Destroyer,0.3407
+12,Destroyer,0.1352
+12,Destroyer,0.117
+12,Destroyer,0.0824
+12,Destroyer,0.0688
+12,Destroyer,0.0287
+12,Destroyer,0.6263
+12,Destroyer,0.0995
+12,Destroyer,0.1988
+12,Destroyer,0.0714
+12,Destroyer,0.0902
+12,Destroyer,0.2833
+12,Destroyer,0.0883
+12,Destroyer,0.0558
+12,Destroyer,0.1069
+12,Destroyer,0.1036
+12,Destroyer,0.1415
+12,Destroyer,0.1262
+12,Destroyer,0.0895
+12,Destroyer,0.3217
+12,Destroyer,0.0598
+12,Destroyer,0.0528
+12,Destroyer,0.0375
+12,Destroyer,0.0388
+12,Destroyer,0.1231
+12,Destroyer,0.0535
+12,Destroyer,0.1468
+12,Destroyer,0.0905
+12,Destroyer,0.0621
+12,Destroyer,0.0575
+12,Destroyer,0.1468
+12,Destroyer,0.0747
+12,Destroyer,0.0966
+12,Destroyer,0.0873
+12,Destroyer,0.046
+12,Destroyer,0.6349
+12,Destroyer,0.1094
+12,Destroyer,0.0629
+12,Destroyer,0.0234
+12,Destroyer,0.1258
+12,Destroyer,0.0755
+12,Destroyer,0.0716
+12,Destroyer,0.0487
+12,Destroyer,0.267
+12,Destroyer,0.0133
+12,Destroyer,0.1386
+12,Destroyer,0.4147
+12,Destroyer,0.3916
+12,Destroyer,0.0616
+12,Destroyer,0.1002
+12,Destroyer,0.0387
+12,Destroyer,0.0533
+12,Destroyer,0.0298
+12,Destroyer,0.0836
+12,Destroyer,0.098
+12,Destroyer,0.0783
+12,Destroyer,0.4728
+12,Destroyer,0.0921
+12,Destroyer,0.0926
+12,Destroyer,0.1314
+12,Destroyer,0.0687
+12,Destroyer,0.0679
+12,Destroyer,0.2255
+12,Destroyer,0.0324
+12,Destroyer,0.072
+12,Destroyer,0.0303
+12,Destroyer,0.0834
+12,Destroyer,0.6102
+12,Destroyer,0.0772
+12,Destroyer,0.6104
+12,Destroyer,0.0232
+12,Destroyer,0.0557
+12,Destroyer,0.0733
+12,Destroyer,0.0487
+12,Destroyer,0.037
+12,Destroyer,0.3957
+12,Destroyer,0.0791
+12,Destroyer,0.0836
+12,Destroyer,0.0507
+12,Destroyer,0.0864
+12,Destroyer,0.0614
+12,Destroyer,0.1395
+12,Destroyer,0.1019
+12,Destroyer,0.0605
+12,Destroyer,0.0448
+12,Destroyer,0.0103
+12,Destroyer,0.0506
+12,Destroyer,0.2753
+12,Destroyer,0.0625
+12,Destroyer,0.0997
+12,Destroyer,0.081
+12,Destroyer,0.6456
+12,Destroyer,0.1227
+12,Destroyer,0.0639
+12,Destroyer,0.4626
+12,Destroyer,0.6842
+12,Destroyer,0.0859
+12,Destroyer,0.0816
+12,Destroyer,0.0689
+12,Destroyer,0.0661
+12,Destroyer,0.0352
+12,Destroyer,0.0684
+12,Destroyer,0.1857
+12,Destroyer,0.0625
+12,Destroyer,0.1885
+12,Destroyer,0.2213
+12,Destroyer,0.0413
+12,Destroyer,0.1288
+12,Destroyer,0.0263
+12,Destroyer,0.0748
+12,Destroyer,0.6285
+12,Destroyer,0.0808
+12,Destroyer,0.0508
+12,Destroyer,0.396
+12,Destroyer,0.3621
+12,Destroyer,0.136
+12,Destroyer,0.0426
+12,Destroyer,0.0813
+12,Destroyer,0.0281
+12,Destroyer,0.086
+12,Destroyer,0.0716
+12,Destroyer,0.0457
+12,Destroyer,0.0597
+12,Destroyer,0.0883
+12,Destroyer,0.6756
+12,Destroyer,0.0745
+12,Destroyer,0.036
+12,Destroyer,0.0415
+12,Destroyer,0.0473
+12,Destroyer,0.0456
+12,Destroyer,0.1643
+12,Destroyer,0.0944
+12,Destroyer,0.0874
+12,Destroyer,0.6615
+12,Destroyer,0.0403
+12,Destroyer,0.5545
+12,Destroyer,0.0157
+12,Destroyer,0.0739
+12,Destroyer,0.0636
+12,Destroyer,0.0413
+12,Destroyer,0.0631
+12,Destroyer,0.0561
+12,Destroyer,0.061
+12,Destroyer,0.0834
+12,Destroyer,0.0597
+12,Destroyer,0.0973
+12,Destroyer,0.0607
+12,Destroyer,0.0234
+12,Destroyer,0.0464
+12,Destroyer,0.0779
+12,Destroyer,0.3863
+12,Destroyer,0.0435
+12,Destroyer,0.0588
+12,Destroyer,0.0588
+12,Destroyer,0.6284
+12,Destroyer,0.0506
+12,Destroyer,0.0509
+12,Destroyer,0.0558
+12,Destroyer,0.0984
+12,Destroyer,0.1089
+12,Destroyer,0.186
+12,Destroyer,0.0641
+12,Destroyer,0.0881
+12,Destroyer,0.0543
+12,Destroyer,0.2036
+12,Destroyer,0.0562
+12,Destroyer,0.0297
+12,Destroyer,0.0277
+12,Destroyer,0.048
+12,Destroyer,0.0624
+12,Destroyer,0.0588
+12,Destroyer,0.0472
+12,Destroyer,0.0389
+12,Destroyer,0.1394
+12,Destroyer,0.0596
+12,Destroyer,0.0548
+12,Destroyer,0.0889
+12,Destroyer,0.0659
+12,Destroyer,0.08
+12,Destroyer,0.1058
+12,Destroyer,0.0759
+12,Destroyer,0.0468
+12,Destroyer,0.0876
+12,Destroyer,0.6106
+12,Destroyer,0.7323
+12,Destroyer,0.0706
+12,Destroyer,0.2168
+12,Destroyer,0.0467
+12,Destroyer,0.0232
+12,Destroyer,0.0569
+12,Destroyer,0.0441
+12,Destroyer,0.1751
+12,Destroyer,0.1887
+12,Destroyer,0.0398
+12,Destroyer,0.0191
+12,Destroyer,0.0511
+12,Destroyer,0.0733
+12,Destroyer,0.095
+12,Destroyer,0.0841
+12,Destroyer,0.0764
+12,Destroyer,0.2653
+12,Destroyer,0.0886
+12,Destroyer,0.3338
+12,Destroyer,0.1012
+12,Destroyer,0.0945
+12,Destroyer,0.4713
+12,Destroyer,0.6713
+12,Destroyer,0.1041
+12,Destroyer,0.0668
+12,Destroyer,0.2064
+12,Destroyer,0.0953
+12,Destroyer,0.1611
+12,Destroyer,0.1239
+12,Destroyer,0.0832
+12,Destroyer,0.0423
+12,Destroyer,0.0339
+12,Destroyer,0.0801
+12,Destroyer,0.0695
+12,Destroyer,0.0525
+12,Destroyer,0.1105
+12,Destroyer,0.1344
+12,Destroyer,0.0576
+12,Destroyer,0.3987
+12,Destroyer,0.4965
+12,Destroyer,0.0177
+12,Destroyer,0.138
+12,Destroyer,0.1111
+12,Destroyer,0.0341
+12,Destroyer,0.1071
+12,Destroyer,0.1512
+12,Destroyer,0.0798
+12,Destroyer,0.5164
+12,Destroyer,0.0507
+12,Destroyer,0.0639
+12,Destroyer,0.0359
+12,Destroyer,0.0981
+12,Destroyer,0.0221
+12,Destroyer,0.0587
+12,Destroyer,0.0338
+12,Destroyer,0.092
+12,Destroyer,0.0265
+12,Destroyer,0.0528
+12,Destroyer,0.0463
+12,Destroyer,0.2723
+12,Destroyer,0.0706
+12,Destroyer,0.0522
+12,Destroyer,0.3731
+12,Destroyer,0.0483
+12,Destroyer,0.045
+12,Destroyer,0.2637
+12,Destroyer,0.0393
+12,Destroyer,0.1038
+12,Destroyer,0.4938
+12,Destroyer,0.0556
+12,Destroyer,0.5655
+13,Passenger ship,0.1067
+13,Passenger ship,0.0708
+13,Passenger ship,0.5245
+13,Passenger ship,0.0807
+13,Passenger ship,0.0926
+13,Passenger ship,0.0565
+13,Passenger ship,0.0952
+13,Passenger ship,0.6261
+13,Passenger ship,0.0891
+13,Passenger ship,0.05
+13,Passenger ship,0.0501
+13,Passenger ship,0.0581
+13,Passenger ship,0.0575
+13,Passenger ship,0.2485
+13,Passenger ship,0.1026
+13,Passenger ship,0.0126
+13,Passenger ship,0.073
+13,Passenger ship,0.2665
+13,Passenger ship,0.1002
+13,Passenger ship,0.0619
+13,Passenger ship,0.0443
+13,Passenger ship,0.3434
+13,Passenger ship,0.0729
+13,Passenger ship,0.0891
+13,Passenger ship,0.0614
+13,Passenger ship,0.1203
+13,Passenger ship,0.0914
+13,Passenger ship,0.0878
+13,Passenger ship,0.1294
+13,Passenger ship,0.0842
+13,Passenger ship,0.5959
+13,Passenger ship,0.109
+13,Passenger ship,0.0394
+13,Passenger ship,0.061
+13,Passenger ship,0.0522
+13,Passenger ship,0.0437
+13,Passenger ship,0.0834
+13,Passenger ship,0.5037
+13,Passenger ship,0.0761
+13,Passenger ship,0.1061
+13,Passenger ship,0.0823
+13,Passenger ship,0.1352
+13,Passenger ship,0.5722
+13,Passenger ship,0.1283
+13,Passenger ship,0.0771
+13,Passenger ship,0.0728
+13,Passenger ship,0.4198
+13,Passenger ship,0.04
+13,Passenger ship,0.5565
+13,Passenger ship,0.0473
+13,Passenger ship,0.0665
+13,Passenger ship,0.0649
+13,Passenger ship,0.0717
+13,Passenger ship,0.0147
+13,Passenger ship,0.0971
+13,Passenger ship,0.0634
+13,Passenger ship,0.0187
+13,Passenger ship,0.0917
+13,Passenger ship,0.0738
+13,Passenger ship,0.3616
+13,Passenger ship,0.0403
+13,Passenger ship,0.1277
+13,Passenger ship,0.1
+13,Passenger ship,0.0688
+13,Passenger ship,0.0308
+13,Passenger ship,0.2564
+13,Passenger ship,0.1103
+13,Passenger ship,0.2061
+13,Passenger ship,0.055
+13,Passenger ship,0.6425
+14,Liquefied gas ship,0.0628
+14,Liquefied gas ship,0.063
+14,Liquefied gas ship,0.3193
+14,Liquefied gas ship,0.0628
+14,Liquefied gas ship,0.0553
+14,Liquefied gas ship,0.0881
+14,Liquefied gas ship,0.6352
+14,Liquefied gas ship,0.528
+14,Liquefied gas ship,0.0775
+14,Liquefied gas ship,0.0562
+14,Liquefied gas ship,0.0452
+14,Liquefied gas ship,0.0686
+14,Liquefied gas ship,0.1141
+14,Liquefied gas ship,0.0726
+14,Liquefied gas ship,0.0862
+14,Liquefied gas ship,0.0563
+14,Liquefied gas ship,0.0055
+14,Liquefied gas ship,0.055
+14,Liquefied gas ship,0.0217
+14,Liquefied gas ship,0.0241
+14,Liquefied gas ship,0.0208
+14,Liquefied gas ship,0.0485
+14,Liquefied gas ship,0.0572
+14,Liquefied gas ship,0.371
+14,Liquefied gas ship,0.0404
+14,Liquefied gas ship,0.0299
+14,Liquefied gas ship,0.0901
+14,Liquefied gas ship,0.2008
+14,Liquefied gas ship,0.0998
+14,Liquefied gas ship,0.0709
+14,Liquefied gas ship,0.0628
+14,Liquefied gas ship,0.0384
+14,Liquefied gas ship,0.0892
+14,Liquefied gas ship,0.0487
+14,Liquefied gas ship,0.0516
+14,Liquefied gas ship,0.0973
+14,Liquefied gas ship,0.0503
+14,Liquefied gas ship,0.0487
+14,Liquefied gas ship,0.0372
+14,Liquefied gas ship,0.0564
+14,Liquefied gas ship,0.0391
+14,Liquefied gas ship,0.0897
+14,Liquefied gas ship,0.0088
+14,Liquefied gas ship,0.0364
+14,Liquefied gas ship,0.3649
+14,Liquefied gas ship,0.0826
+14,Liquefied gas ship,0.0528
+14,Liquefied gas ship,0.3744
+14,Liquefied gas ship,0.0583
+14,Liquefied gas ship,0.0531
+14,Liquefied gas ship,0.0489
+14,Liquefied gas ship,0.0199
+14,Liquefied gas ship,0.0574
+14,Liquefied gas ship,0.0747
+14,Liquefied gas ship,0.0703
+14,Liquefied gas ship,0.4026
+14,Liquefied gas ship,0.0258
+14,Liquefied gas ship,0.0682
+14,Liquefied gas ship,0.1103
+14,Liquefied gas ship,0.0323
+14,Liquefied gas ship,0.0308
+14,Liquefied gas ship,0.0879
+14,Liquefied gas ship,0.0132
+14,Liquefied gas ship,0.0737
+14,Liquefied gas ship,0.0239
+14,Liquefied gas ship,0.0438
+14,Liquefied gas ship,0.0764
+14,Liquefied gas ship,0.0338
+14,Liquefied gas ship,0.0435
+14,Liquefied gas ship,0.0728
+14,Liquefied gas ship,0.059
+14,Liquefied gas ship,0.0508
+14,Liquefied gas ship,0.0663
+14,Liquefied gas ship,0.1819
+15,Barge,0.0378
+15,Barge,0.0708
+15,Barge,0.0455
+15,Barge,0.3407
+15,Barge,0.0384
+15,Barge,0.0606
+15,Barge,0.034
+15,Barge,0.0666
+15,Barge,0.1231
+15,Barge,0.0795
+15,Barge,0.6643
+15,Barge,0.0854
+15,Barge,0.0419
+15,Barge,0.3526
+15,Barge,0.0799
+15,Barge,0.09
+15,Barge,0.0811
+15,Barge,0.026
+15,Barge,0.0439
+15,Barge,0.0791
+15,Barge,0.0586
+15,Barge,0.0298
+15,Barge,0.0519
+15,Barge,0.046
+15,Barge,0.1854
+15,Barge,0.0972
+15,Barge,0.0648
+15,Barge,0.075
+15,Barge,0.0669
+15,Barge,0.0416
+15,Barge,0.0558
+15,Barge,0.1692
+15,Barge,0.0725
+15,Barge,0.0483
+15,Barge,0.0953
+15,Barge,0.0365
+15,Barge,0.1774
+15,Barge,0.2784
+15,Barge,0.0417
+15,Barge,0.0621
+15,Barge,0.039
+15,Barge,0.0729
+15,Barge,0.0991
+16,Landing craft,0.0777
+16,Landing craft,0.0804
+16,Landing craft,0.0701
+16,Landing craft,0.0852
+16,Landing craft,0.5634
+16,Landing craft,0.363
+16,Landing craft,0.0818
+16,Landing craft,0.0298
+16,Landing craft,0.0427
+16,Landing craft,0.0378
+16,Landing craft,0.0435
+16,Landing craft,0.0587
+16,Landing craft,0.2517
+16,Landing craft,0.0755
+16,Landing craft,0.2243
+16,Landing craft,0.06
+16,Landing craft,0.0654
+16,Landing craft,0.0876
+16,Landing craft,0.6363
+16,Landing craft,0.0986
+16,Landing craft,0.0508
+16,Landing craft,0.0361
+16,Landing craft,0.0449
+16,Landing craft,0.0872
+16,Landing craft,0.0341
+16,Landing craft,0.0841
+16,Landing craft,0.075
+16,Landing craft,0.0326
+16,Landing craft,0.1048
+16,Landing craft,0.123
+16,Landing craft,0.0476
+16,Landing craft,0.1013
+16,Landing craft,0.0793
+16,Landing craft,0.0665
+16,Landing craft,0.4624
+16,Landing craft,0.2098
+16,Landing craft,0.0458
+16,Landing craft,0.0418
+16,Landing craft,0.0433
+16,Landing craft,0.1058
+16,Landing craft,0.0563
+16,Landing craft,0.6629
+16,Landing craft,0.0766
+16,Landing craft,0.0489
+16,Landing craft,0.0461
+16,Landing craft,0.0656
+16,Landing craft,0.0565
+16,Landing craft,0.0613
+16,Landing craft,0.0991
+16,Landing craft,0.1345
+16,Landing craft,0.0579
+16,Landing craft,0.0693
+16,Landing craft,0.0536
+16,Landing craft,0.0409
+16,Landing craft,0.6091
+16,Landing craft,0.4219
+16,Landing craft,0.0724
+16,Landing craft,0.0363
+16,Landing craft,0.0395
+16,Landing craft,0.0663
+16,Landing craft,0.0421
+16,Landing craft,0.0649
+16,Landing craft,0.0326
+16,Landing craft,0.0227
+16,Landing craft,0.0576
+16,Landing craft,0.0522
+16,Landing craft,0.0246
+16,Landing craft,0.0933
+16,Landing craft,0.2316
+16,Landing craft,0.043
+16,Landing craft,0.137
+16,Landing craft,0.0848
+16,Landing craft,0.4313
+16,Landing craft,0.2338
+16,Landing craft,0.0988
+16,Landing craft,0.037
+16,Landing craft,0.3892
+16,Landing craft,0.1277
+16,Landing craft,0.0577
+16,Landing craft,0.0374
+16,Landing craft,0.0435
+16,Landing craft,0.3695
+16,Landing craft,0.4589
+16,Landing craft,0.6716
+16,Landing craft,0.0362
+16,Landing craft,0.0936
+17,Frigate,0.0572
+17,Frigate,0.0896
+17,Frigate,0.0262
+17,Frigate,0.0493
+17,Frigate,0.0933
+17,Frigate,0.0567
+17,Frigate,0.2726
+17,Frigate,0.0604
+17,Frigate,0.0795
+17,Frigate,0.2444
+17,Frigate,0.0705
+17,Frigate,0.0406
+17,Frigate,0.0388
+17,Frigate,0.0515
+17,Frigate,0.0535
+17,Frigate,0.2346
+17,Frigate,0.0568
+17,Frigate,0.0655
+17,Frigate,0.0786
+17,Frigate,0.5049
+17,Frigate,0.0711
+17,Frigate,0.2039
+17,Frigate,0.2523
+17,Frigate,0.1224
+17,Frigate,0.0862
+17,Frigate,0.126
+17,Frigate,0.4538
+17,Frigate,0.0657
+17,Frigate,0.0696
+17,Frigate,0.0182
+17,Frigate,0.1495
+17,Frigate,0.0915
+17,Frigate,0.0406
+17,Frigate,0.007
+17,Frigate,0.1256
+17,Frigate,0.2659
+17,Frigate,0.1302
+17,Frigate,0.283
+17,Frigate,0.1163
+17,Frigate,0.0811
+17,Frigate,0.1086
+17,Frigate,0.0318
+17,Frigate,0.1372
+17,Frigate,0.105
+17,Frigate,0.0724
+17,Frigate,0.0176
+17,Frigate,0.5092
+17,Frigate,0.0712
+17,Frigate,0.3872
+17,Frigate,0.0609
+17,Frigate,0.0636
+17,Frigate,0.3996
+17,Frigate,0.0137
+17,Frigate,0.0817
+17,Frigate,0.0886
+17,Frigate,0.0624
+17,Frigate,0.0376
+17,Frigate,0.0619
+17,Frigate,0.0813
+17,Frigate,0.0814
+17,Frigate,0.0777
+17,Frigate,0.058
+17,Frigate,0.0227
+17,Frigate,0.0358
+17,Frigate,0.2211
+17,Frigate,0.0639
+17,Frigate,0.0768
+17,Frigate,0.1115
+17,Frigate,0.5684
+17,Frigate,0.0596
+17,Frigate,0.1438
+17,Frigate,0.0545
+17,Frigate,0.1211
+17,Frigate,0.0205
+17,Frigate,0.0776
+17,Frigate,0.1083
+17,Frigate,0.082
+17,Frigate,0.073
+17,Frigate,0.0767
+17,Frigate,0.1003
+17,Frigate,0.3725
+17,Frigate,0.4075
+17,Frigate,0.1287
+17,Frigate,0.1055
+17,Frigate,0.3714
+17,Frigate,0.0653
+17,Frigate,0.0514
+17,Frigate,0.056
+17,Frigate,0.0839
+17,Frigate,0.0783
+17,Frigate,0.0527
+17,Frigate,0.0498
+17,Frigate,0.0914
+17,Frigate,0.0484
+17,Frigate,0.0765
+17,Frigate,0.0564
+17,Frigate,0.0685
+17,Frigate,0.0712
+17,Frigate,0.1241
+17,Frigate,0.238
+17,Frigate,0.1211
+17,Frigate,0.1697
+17,Frigate,0.0439
+17,Frigate,0.4943
+17,Frigate,0.108
+17,Frigate,0.0516
+17,Frigate,0.06
+17,Frigate,0.0714
+17,Frigate,0.0958
+17,Frigate,0.0953
+17,Frigate,0.0745
+17,Frigate,0.4685
+17,Frigate,0.1047
+17,Frigate,0.0628
+17,Frigate,0.0255
+17,Frigate,0.0084
+17,Frigate,0.0794
+17,Frigate,0.1306
+17,Frigate,0.0617
+17,Frigate,0.1232
+17,Frigate,0.0361
+17,Frigate,0.0139
+17,Frigate,0.0605
+17,Frigate,0.0758
+17,Frigate,0.1304
+17,Frigate,0.0648
+17,Frigate,0.1013
+17,Frigate,0.0695
+17,Frigate,0.0737
+17,Frigate,0.0375
+17,Frigate,0.076
+17,Frigate,0.6277
+17,Frigate,0.1038
+17,Frigate,0.1056
+17,Frigate,0.0793
+17,Frigate,0.0749
+17,Frigate,0.0651
+17,Frigate,0.673
+17,Frigate,0.5734
+17,Frigate,0.0626
+17,Frigate,0.0653
+17,Frigate,0.0807
+17,Frigate,0.0314
+17,Frigate,0.0464
+17,Frigate,0.0948
+17,Frigate,0.0752
+17,Frigate,0.0487
+17,Frigate,0.0674
+17,Frigate,0.0614
+17,Frigate,0.0338
+17,Frigate,0.069
+17,Frigate,0.0686
+17,Frigate,0.0579
+17,Frigate,0.1484
+17,Frigate,0.0713
+17,Frigate,0.0446
+17,Frigate,0.0893
+17,Frigate,0.0678
+17,Frigate,0.0819
+17,Frigate,0.0247
+17,Frigate,0.488
+17,Frigate,0.0767
+17,Frigate,0.3702
+17,Frigate,0.0722
+17,Frigate,0.0286
+17,Frigate,0.0819
+17,Frigate,0.0641
+17,Frigate,0.0665
+17,Frigate,0.0686
+17,Frigate,0.0461
+17,Frigate,0.1098
+17,Frigate,0.0696
+17,Frigate,0.0494
+17,Frigate,0.0475
+17,Frigate,0.0986
+17,Frigate,0.0433
+17,Frigate,0.0696
+17,Frigate,0.0481
+17,Frigate,0.0918
+17,Frigate,0.017
+17,Frigate,0.4328
+17,Frigate,0.2997
+17,Frigate,0.0847
+17,Frigate,0.0381
+17,Frigate,0.0802
+17,Frigate,0.0668
+17,Frigate,0.0661
+17,Frigate,0.0829
+17,Frigate,0.1445
+17,Frigate,0.097
+17,Frigate,0.0279
+17,Frigate,0.1828
+17,Frigate,0.2931
+17,Frigate,0.0549
+17,Frigate,0.1395
+17,Frigate,0.0592
+17,Frigate,0.1058
+17,Frigate,0.0812
+17,Frigate,0.0486
+17,Frigate,0.3166
+17,Frigate,0.0496
+17,Frigate,0.033
+17,Frigate,0.0897
+17,Frigate,0.0632
+17,Frigate,0.3171
+17,Frigate,0.0584
+17,Frigate,0.1396
+17,Frigate,0.0512
+17,Frigate,0.1099
+17,Frigate,0.1058
+17,Frigate,0.0335
+17,Frigate,0.0605
+17,Frigate,0.4747
+17,Frigate,0.0535
+17,Frigate,0.3098
+17,Frigate,0.0549
+17,Frigate,0.0758
+17,Frigate,0.0202
+17,Frigate,0.0537
+17,Frigate,0.0516
+17,Frigate,0.0776
+17,Frigate,0.0578
+17,Frigate,0.056
+17,Frigate,0.1802
+17,Frigate,0.087
+17,Frigate,0.0404
+17,Frigate,0.0753
+17,Frigate,0.5594
+17,Frigate,0.1114
+17,Frigate,0.0985
+17,Frigate,0.0599
+17,Frigate,0.1207
+17,Frigate,0.0455
+17,Frigate,0.1311
+17,Frigate,0.0832
+17,Frigate,0.1465
+18,Amphibious transport dock,0.0556
+18,Amphibious transport dock,0.0489
+18,Amphibious transport dock,0.0386
+18,Amphibious transport dock,0.0471
+18,Amphibious transport dock,0.1168
+18,Amphibious transport dock,0.0503
+18,Amphibious transport dock,0.0516
+18,Amphibious transport dock,0.078
+18,Amphibious transport dock,0.0875
+18,Amphibious transport dock,0.0157
+18,Amphibious transport dock,0.087
+18,Amphibious transport dock,0.4991
+18,Amphibious transport dock,0.0191
+18,Amphibious transport dock,0.0692
+18,Amphibious transport dock,0.0996
+18,Amphibious transport dock,0.0983
+18,Amphibious transport dock,0.2888
+18,Amphibious transport dock,0.0746
+18,Amphibious transport dock,0.0706
+18,Amphibious transport dock,0.0863
+18,Amphibious transport dock,0.0564
+18,Amphibious transport dock,0.0884
+18,Amphibious transport dock,0.0641
+18,Amphibious transport dock,0.0808
+18,Amphibious transport dock,0.0634
+18,Amphibious transport dock,0.0574
+18,Amphibious transport dock,0.0299
+18,Amphibious transport dock,0.0453
+18,Amphibious transport dock,0.0661
+18,Amphibious transport dock,0.0111
+18,Amphibious transport dock,0.6479
+18,Amphibious transport dock,0.0507
+18,Amphibious transport dock,0.3486
+18,Amphibious transport dock,0.072
+18,Amphibious transport dock,0.072
+18,Amphibious transport dock,0.0388
+18,Amphibious transport dock,0.0982
+18,Amphibious transport dock,0.1567
+18,Amphibious transport dock,0.0494
+18,Amphibious transport dock,0.0601
+18,Amphibious transport dock,0.0378
+18,Amphibious transport dock,0.0102
+18,Amphibious transport dock,0.6069
+18,Amphibious transport dock,0.0551
+18,Amphibious transport dock,0.0649
+18,Amphibious transport dock,0.0495
+18,Amphibious transport dock,0.0248
+18,Amphibious transport dock,0.018
+18,Amphibious transport dock,0.3296
+18,Amphibious transport dock,0.0924
+18,Amphibious transport dock,0.046
+18,Amphibious transport dock,0.0526
+18,Amphibious transport dock,0.0835
+18,Amphibious transport dock,0.0578
+18,Amphibious transport dock,0.0615
+18,Amphibious transport dock,0.0398
+18,Amphibious transport dock,0.0645
+18,Amphibious transport dock,0.0592
+18,Amphibious transport dock,0.0942
+18,Amphibious transport dock,0.3119
+18,Amphibious transport dock,0.4507
+18,Amphibious transport dock,0.0237
+18,Amphibious transport dock,0.0717
+18,Amphibious transport dock,0.1031
+18,Amphibious transport dock,0.157
+18,Amphibious transport dock,0.3798
+18,Amphibious transport dock,0.1838
+18,Amphibious transport dock,0.0734
+18,Amphibious transport dock,0.049
+18,Amphibious transport dock,0.4011
+18,Amphibious transport dock,0.1378
+18,Amphibious transport dock,0.025
+19,Cruiser,0.0773
+19,Cruiser,0.026
+19,Cruiser,0.0868
+19,Cruiser,0.182
+19,Cruiser,0.0669
+19,Cruiser,0.0962
+19,Cruiser,0.0596
+19,Cruiser,0.3595
+19,Cruiser,0.0976
+19,Cruiser,0.0616
+19,Cruiser,0.0348
+19,Cruiser,0.2009
+19,Cruiser,0.0196
+19,Cruiser,0.2838
+19,Cruiser,0.0695
+19,Cruiser,0.0657
+19,Cruiser,0.1283
+19,Cruiser,0.4322
+19,Cruiser,0.0334
+19,Cruiser,0.238
+19,Cruiser,0.0536
+19,Cruiser,0.1127
+19,Cruiser,0.0879
+19,Cruiser,0.169
+19,Cruiser,0.0397
+19,Cruiser,0.0319
+19,Cruiser,0.0447
+19,Cruiser,0.0157
+19,Cruiser,0.1222
+19,Cruiser,0.0373
+19,Cruiser,0.0598
+19,Cruiser,0.1182
+19,Cruiser,0.0277
+19,Cruiser,0.0606
+19,Cruiser,0.0681
+19,Cruiser,0.0836
+19,Cruiser,0.0826
+19,Cruiser,0.0445
+19,Cruiser,0.0628
+19,Cruiser,0.4929
+19,Cruiser,0.1065
+19,Cruiser,0.3282
+19,Cruiser,0.071
+19,Cruiser,0.0535
+19,Cruiser,0.1177
+19,Cruiser,0.1304
+19,Cruiser,0.0735
+19,Cruiser,0.0758
+19,Cruiser,0.0703
+19,Cruiser,0.0767
+19,Cruiser,0.0703
+19,Cruiser,0.1448
+19,Cruiser,0.0736
+19,Cruiser,0.046
+19,Cruiser,0.0235
+19,Cruiser,0.0667
+19,Cruiser,0.074
+19,Cruiser,0.1977
+19,Cruiser,0.0769
+19,Cruiser,0.0617
+19,Cruiser,0.4006
+19,Cruiser,0.0675
+19,Cruiser,0.0654
+19,Cruiser,0.1036
+19,Cruiser,0.0922
+19,Cruiser,0.0746
+19,Cruiser,0.0787
+19,Cruiser,0.3844
+19,Cruiser,0.0406
+19,Cruiser,0.1495
+19,Cruiser,0.0481
+19,Cruiser,0.0423
+19,Cruiser,0.0774
+19,Cruiser,0.0704
+19,Cruiser,0.0719
+19,Cruiser,0.0622
+19,Cruiser,0.071
+19,Cruiser,0.0805
+19,Cruiser,0.058
+19,Cruiser,0.0647
+19,Cruiser,0.0783
+19,Cruiser,0.0492
+19,Cruiser,0.0711
+19,Cruiser,0.0467
+19,Cruiser,0.0397
+19,Cruiser,0.5838
+19,Cruiser,0.0566
+19,Cruiser,0.0101
+19,Cruiser,0.056
+19,Cruiser,0.0448
+19,Cruiser,0.0509
+19,Cruiser,0.0901
+19,Cruiser,0.1214
+19,Cruiser,0.0854
+19,Cruiser,0.6027
+19,Cruiser,0.6592
+19,Cruiser,0.0854
+19,Cruiser,0.3656
+19,Cruiser,0.4485
+19,Cruiser,0.0545
+19,Cruiser,0.0775
+19,Cruiser,0.0247
+19,Cruiser,0.0675
+19,Cruiser,0.06
+19,Cruiser,0.0319
+19,Cruiser,0.0451
+19,Cruiser,0.0589
+19,Cruiser,0.0783
+19,Cruiser,0.0581
+19,Cruiser,0.109
+19,Cruiser,0.059
+19,Cruiser,0.418
+19,Cruiser,0.0625
+19,Cruiser,0.5649
+19,Cruiser,0.5828
+19,Cruiser,0.0815
+19,Cruiser,0.046
+19,Cruiser,0.0556
+19,Cruiser,0.0576
+19,Cruiser,0.0933
+19,Cruiser,0.0659
+19,Cruiser,0.0207
+19,Cruiser,0.5641
+19,Cruiser,0.0823
+19,Cruiser,0.0949
+19,Cruiser,0.0465
+19,Cruiser,0.0846
+19,Cruiser,0.0383
+19,Cruiser,0.6723
+19,Cruiser,0.0726
+19,Cruiser,0.0884
+19,Cruiser,0.0895
+19,Cruiser,0.0644
+19,Cruiser,0.1168
+19,Cruiser,0.429
+19,Cruiser,0.0463
+19,Cruiser,0.0894
+19,Cruiser,0.1028
+19,Cruiser,0.054
+19,Cruiser,0.0957
+19,Cruiser,0.0857
+19,Cruiser,0.0414
+19,Cruiser,0.0783
+19,Cruiser,0.053
+19,Cruiser,0.0872
+19,Cruiser,0.2578
+19,Cruiser,0.066
+19,Cruiser,0.0567
+19,Cruiser,0.6389
+19,Cruiser,0.0482
+19,Cruiser,0.0885
+19,Cruiser,0.0854
+19,Cruiser,0.1184
+19,Cruiser,0.1085
+19,Cruiser,0.396
+19,Cruiser,0.024
+19,Cruiser,0.2799
+19,Cruiser,0.0723
+19,Cruiser,0.0955
+19,Cruiser,0.0861
+19,Cruiser,0.0853
+19,Cruiser,0.0681
+19,Cruiser,0.0266
+19,Cruiser,0.573
+19,Cruiser,0.3808
+19,Cruiser,0.2644
+19,Cruiser,0.0616
+19,Cruiser,0.2128
+19,Cruiser,0.0929
+19,Cruiser,0.0767
+19,Cruiser,0.0517
+19,Cruiser,0.6248
+19,Cruiser,0.1377
+19,Cruiser,0.0595
+19,Cruiser,0.0887
+19,Cruiser,0.6388
+19,Cruiser,0.0809
+19,Cruiser,0.0812
+19,Cruiser,0.2569
+19,Cruiser,0.0463
+19,Cruiser,0.0758
+19,Cruiser,0.094
+19,Cruiser,0.0655
+19,Cruiser,0.0506
+19,Cruiser,0.0186
+19,Cruiser,0.0741
+19,Cruiser,0.0561
+19,Cruiser,0.0224
+19,Cruiser,0.0895
+19,Cruiser,0.074
+19,Cruiser,0.0336
+19,Cruiser,0.1489
+19,Cruiser,0.062
+19,Cruiser,0.0466
+19,Cruiser,0.1306
+19,Cruiser,0.0512
+19,Cruiser,0.0504
+19,Cruiser,0.0805
+19,Cruiser,0.0148
+19,Cruiser,0.421
+19,Cruiser,0.0354
+19,Cruiser,0.0751
+19,Cruiser,0.2232
+19,Cruiser,0.2224
+19,Cruiser,0.0369
+19,Cruiser,0.0872
+19,Cruiser,0.0786
+19,Cruiser,0.0766
+19,Cruiser,0.0836
+19,Cruiser,0.1529
+19,Cruiser,0.0451
+19,Cruiser,0.0525
+19,Cruiser,0.0977
+19,Cruiser,0.0639
+19,Cruiser,0.0433
+19,Cruiser,0.0161
+19,Cruiser,0.0977
+19,Cruiser,0.0371
+19,Cruiser,0.0664
+19,Cruiser,0.0917
+19,Cruiser,0.0377
+19,Cruiser,0.0854
+19,Cruiser,0.0543
+19,Cruiser,0.0828
+19,Cruiser,0.0797
+19,Cruiser,0.0701
+19,Cruiser,0.2248
+19,Cruiser,0.053
+19,Cruiser,0.0492
+19,Cruiser,0.1077
+19,Cruiser,0.0563
+19,Cruiser,0.0534
+19,Cruiser,0.0271
+19,Cruiser,0.07
+20,Tarawa-class amphibious assault ship,0.0523
+20,Tarawa-class amphibious assault ship,0.0696
+20,Tarawa-class amphibious assault ship,0.0442
+20,Tarawa-class amphibious assault ship,0.0548
+20,Tarawa-class amphibious assault ship,0.104
+20,Tarawa-class amphibious assault ship,0.0714
+20,Tarawa-class amphibious assault ship,0.0531
+20,Tarawa-class amphibious assault ship,0.0858
+20,Tarawa-class amphibious assault ship,0.0575
+20,Tarawa-class amphibious assault ship,0.0894
+20,Tarawa-class amphibious assault ship,0.2776
+20,Tarawa-class amphibious assault ship,0.0324
+20,Tarawa-class amphibious assault ship,0.061
+20,Tarawa-class amphibious assault ship,0.0649
+20,Tarawa-class amphibious assault ship,0.034
+20,Tarawa-class amphibious assault ship,0.0426
+20,Tarawa-class amphibious assault ship,0.097
+20,Tarawa-class amphibious assault ship,0.1997
+20,Tarawa-class amphibious assault ship,0.0485
+20,Tarawa-class amphibious assault ship,0.0931
+20,Tarawa-class amphibious assault ship,0.0799
+20,Tarawa-class amphibious assault ship,0.0769
+20,Tarawa-class amphibious assault ship,0.0808
+20,Tarawa-class amphibious assault ship,0.0543
+20,Tarawa-class amphibious assault ship,0.0367
+20,Tarawa-class amphibious assault ship,0.0379
+20,Tarawa-class amphibious assault ship,0.4903
+20,Tarawa-class amphibious assault ship,0.3191
+20,Tarawa-class amphibious assault ship,0.5591
+20,Tarawa-class amphibious assault ship,0.0738
+20,Tarawa-class amphibious assault ship,0.0411
+20,Tarawa-class amphibious assault ship,0.076
+20,Tarawa-class amphibious assault ship,0.0622
+20,Tarawa-class amphibious assault ship,0.4907
+20,Tarawa-class amphibious assault ship,0.0723
+20,Tarawa-class amphibious assault ship,0.0471
+20,Tarawa-class amphibious assault ship,0.2146
+20,Tarawa-class amphibious assault ship,0.0227
+20,Tarawa-class amphibious assault ship,0.0348
+20,Tarawa-class amphibious assault ship,0.0619
+20,Tarawa-class amphibious assault ship,0.0134
+20,Tarawa-class amphibious assault ship,0.6187
+20,Tarawa-class amphibious assault ship,0.0807
+20,Tarawa-class amphibious assault ship,0.0556
+20,Tarawa-class amphibious assault ship,0.0888
+20,Tarawa-class amphibious assault ship,0.0373
+20,Tarawa-class amphibious assault ship,0.0617
+20,Tarawa-class amphibious assault ship,0.322
+20,Tarawa-class amphibious assault ship,0.072
+20,Tarawa-class amphibious assault ship,0.0336
+20,Tarawa-class amphibious assault ship,0.0956
+20,Tarawa-class amphibious assault ship,0.2199
+20,Tarawa-class amphibious assault ship,0.0981
+20,Tarawa-class amphibious assault ship,0.0684
+20,Tarawa-class amphibious assault ship,0.0677
+20,Tarawa-class amphibious assault ship,0.0595
+20,Tarawa-class amphibious assault ship,0.0834
+20,Tarawa-class amphibious assault ship,0.063
+20,Tarawa-class amphibious assault ship,0.1114
+20,Tarawa-class amphibious assault ship,0.0841
+20,Tarawa-class amphibious assault ship,0.0717
+20,Tarawa-class amphibious assault ship,0.0781
+20,Tarawa-class amphibious assault ship,0.0809
+20,Tarawa-class amphibious assault ship,0.0534
+20,Tarawa-class amphibious assault ship,0.0614
+20,Tarawa-class amphibious assault ship,0.082
+20,Tarawa-class amphibious assault ship,0.0932
+20,Tarawa-class amphibious assault ship,0.0886
+20,Tarawa-class amphibious assault ship,0.0771
+20,Tarawa-class amphibious assault ship,0.0634
+21,Amphibious assault ship,0.0421
+21,Amphibious assault ship,0.1991
+21,Amphibious assault ship,0.0517
+21,Amphibious assault ship,0.0852
+21,Amphibious assault ship,0.0709
+21,Amphibious assault ship,0.0723
+21,Amphibious assault ship,0.0207
+21,Amphibious assault ship,0.046
+21,Amphibious assault ship,0.0885
+21,Amphibious assault ship,0.0799
+21,Amphibious assault ship,0.2769
+21,Amphibious assault ship,0.4914
+21,Amphibious assault ship,0.0539
+21,Amphibious assault ship,0.4723
+21,Amphibious assault ship,0.0675
+21,Amphibious assault ship,0.0492
+21,Amphibious assault ship,0.0405
+21,Amphibious assault ship,0.1966
+21,Amphibious assault ship,0.0549
+21,Amphibious assault ship,0.0796
+21,Amphibious assault ship,0.0726
+21,Amphibious assault ship,0.0592
+21,Amphibious assault ship,0.4489
+21,Amphibious assault ship,0.3586
+21,Amphibious assault ship,0.3094
+21,Amphibious assault ship,0.0996
+21,Amphibious assault ship,0.0458
+21,Amphibious assault ship,0.4196
+21,Amphibious assault ship,0.0335
+21,Amphibious assault ship,0.0911
+21,Amphibious assault ship,0.0607
+21,Amphibious assault ship,0.0225
+21,Amphibious assault ship,0.0527
+21,Amphibious assault ship,0.5631
+21,Amphibious assault ship,0.0544
+21,Amphibious assault ship,0.054
+21,Amphibious assault ship,0.1964
+21,Amphibious assault ship,0.0576
+21,Amphibious assault ship,0.1022
+21,Amphibious assault ship,0.0542
+21,Amphibious assault ship,0.1121
+21,Amphibious assault ship,0.1697
+21,Amphibious assault ship,0.067
+21,Amphibious assault ship,0.038
+21,Amphibious assault ship,0.0603
+21,Amphibious assault ship,0.5753
+21,Amphibious assault ship,0.0608
+21,Amphibious assault ship,0.0422
+21,Amphibious assault ship,0.052
+21,Amphibious assault ship,0.5311
+21,Amphibious assault ship,0.0963
+21,Amphibious assault ship,0.0495
+21,Amphibious assault ship,0.0601
+21,Amphibious assault ship,0.0572
+21,Amphibious assault ship,0.0711
+21,Amphibious assault ship,0.083
+21,Amphibious assault ship,0.3795
+21,Amphibious assault ship,0.4871
+21,Amphibious assault ship,0.0906
+21,Amphibious assault ship,0.1343
+21,Amphibious assault ship,0.0682
+21,Amphibious assault ship,0.5485
+21,Amphibious assault ship,0.0505
+21,Amphibious assault ship,0.0791
+21,Amphibious assault ship,0.2402
+21,Amphibious assault ship,0.2619
+21,Amphibious assault ship,0.0739
+21,Amphibious assault ship,0.0433
+21,Amphibious assault ship,0.0878
+21,Amphibious assault ship,0.0268
+21,Amphibious assault ship,0.6462
+21,Amphibious assault ship,0.0464
+21,Amphibious assault ship,0.3372
+21,Amphibious assault ship,0.0367
+21,Amphibious assault ship,0.68
+21,Amphibious assault ship,0.0623
+21,Amphibious assault ship,0.324
+21,Amphibious assault ship,0.0513
+21,Amphibious assault ship,0.0292
+21,Amphibious assault ship,0.0626
+21,Amphibious assault ship,0.0543
+21,Amphibious assault ship,0.0634
+21,Amphibious assault ship,0.0512
+21,Amphibious assault ship,0.059
+21,Amphibious assault ship,0.0677
+21,Amphibious assault ship,0.6072
+21,Amphibious assault ship,0.0327
+21,Amphibious assault ship,0.0927
+21,Amphibious assault ship,0.0287
+21,Amphibious assault ship,0.088
+21,Amphibious assault ship,0.0435
+21,Amphibious assault ship,0.0866
+21,Amphibious assault ship,0.5478
+21,Amphibious assault ship,0.2297
+21,Amphibious assault ship,0.2823
+21,Amphibious assault ship,0.0719
+21,Amphibious assault ship,0.0672
+21,Amphibious assault ship,0.0163
+21,Amphibious assault ship,0.0577
+21,Amphibious assault ship,0.485
+21,Amphibious assault ship,0.5752
+21,Amphibious assault ship,0.0567
+21,Amphibious assault ship,0.0511
+21,Amphibious assault ship,0.0685
+21,Amphibious assault ship,0.0362
+21,Amphibious assault ship,0.0263
+21,Amphibious assault ship,0.0756
+21,Amphibious assault ship,0.0552
+21,Amphibious assault ship,0.4353
+21,Amphibious assault ship,0.258
+21,Amphibious assault ship,0.043
+21,Amphibious assault ship,0.0631
+21,Amphibious assault ship,0.0501
+21,Amphibious assault ship,0.0305
+21,Amphibious assault ship,0.0369
+21,Amphibious assault ship,0.041
+21,Amphibious assault ship,0.0599
+21,Amphibious assault ship,0.0536
+21,Amphibious assault ship,0.0992
+21,Amphibious assault ship,0.1533
+21,Amphibious assault ship,0.3523
+21,Amphibious assault ship,0.075
+21,Amphibious assault ship,0.1291
+22,Command ship,0.0884
+22,Command ship,0.0915
+22,Command ship,0.0738
+22,Command ship,0.3215
+22,Command ship,0.0729
+22,Command ship,0.0658
+22,Command ship,0.0966
+22,Command ship,0.0621
+22,Command ship,0.0719
+22,Command ship,0.0939
+22,Command ship,0.5364
+22,Command ship,0.0565
+22,Command ship,0.0437
+22,Command ship,0.0841
+22,Command ship,0.0882
+22,Command ship,0.0421
+22,Command ship,0.0201
+22,Command ship,0.0707
+22,Command ship,0.5827
+22,Command ship,0.5326
+22,Command ship,0.0899
+22,Command ship,0.0355
+22,Command ship,0.0347
+22,Command ship,0.059
+22,Command ship,0.031
+22,Command ship,0.0863
+22,Command ship,0.0987
+22,Command ship,0.4749
+22,Command ship,0.4494
+22,Command ship,0.0321
+22,Command ship,0.0619
+22,Command ship,0.3148
+22,Command ship,0.0605
+22,Command ship,0.2307
+22,Command ship,0.0528
+22,Command ship,0.101
+22,Command ship,0.1013
+22,Command ship,0.0271
+22,Command ship,0.0811
+22,Command ship,0.0478
+22,Command ship,0.5455
+22,Command ship,0.046
+22,Command ship,0.0566
+22,Command ship,0.0646
+22,Command ship,0.2134
+22,Command ship,0.0284
+22,Command ship,0.0485
+22,Command ship,0.0314
+22,Command ship,0.0581
+22,Command ship,0.0715
+22,Command ship,0.6227
+22,Command ship,0.0466
+22,Command ship,0.0201
+22,Command ship,0.066
+22,Command ship,0.0399
+22,Command ship,0.0204
+22,Command ship,0.0932
+22,Command ship,0.1165
+22,Command ship,0.028
+22,Command ship,0.0409
+22,Command ship,0.0694
+22,Command ship,0.0448
+22,Command ship,0.1167
+22,Command ship,0.113
+22,Command ship,0.0153
+22,Command ship,0.0603
+22,Command ship,0.0642
+22,Command ship,0.1286
+22,Command ship,0.0971
+22,Command ship,0.484
+22,Command ship,0.0644
