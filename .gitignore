@@ -13,7 +13,8 @@ __pycache__/
 old_nbs/
 keys/
 models/*.pth
-diagrams_paper/
+diagrams_paper/*.svg
+diagrams_paper/*.pptx
 
 # Distribution / packaging
 .Python
