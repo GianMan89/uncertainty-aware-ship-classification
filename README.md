@@ -1,6 +1,9 @@
 # WAVES: Weather-Aware Visual Estimation with Sets
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+![Python](https://img.shields.io/badge/python-3.9%2B-green.svg)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.0-orange.svg)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)](notebook.ipynb)
 
 This repository contains the official implementation for the paper:
 
@@ -16,42 +19,43 @@ This repository introduces **WAVES (Weather-Aware Visual Estimation with Sets)**
 
 ## Repository Structure
 
-├── data/ # Dataset splits and metadata
-│ ├── preprocessed_dataset.* # Full augmented dataset (7z compressed)
-│ ├── train_dataset.* # Training split
-│ ├── val_dataset.* # Validation split (for calibration & hyperparameter tuning)
-│ ├── test_dataset.* # Independent test split
-│ └── preprocessed_metadata.csv # Image metadata and cloud coverage scores
+```
+uncertainty-aware-ship-classification/
+├── data/                   # Dataset splits and metadata
+│   ├── preprocessed_dataset.*      # Full augmented dataset (7z compressed)
+│   ├── train_dataset.*             # Training split
+│   ├── val_dataset.*               # Validation split (for calibration & tuning)
+│   ├── test_dataset.*              # Independent test split
+│   └── preprocessed_metadata.csv   # Image metadata and cloud coverage scores
 │
-├── diagrams_paper/ # Diagrams and figures from the paper
-│ ├── fig0.pdf # Military vessel examples (FGSRCS dataset)
-│ ├── fig1.pdf # Synthetic cloud augmentation examples
-│ ├── fig2.pdf # Synthetic cloud coverage distribution
-│ ├── fig3.pdf # Class distributions for splits
-│ ├── fig4.pdf # WAVES vs. Global CP (prediction set sizes vs. cloud coverage)
-│ └── fig5.pdf # Calibration cumulative distribution example
+├── diagrams_paper/         # Paper figures and diagrams
+│   ├── fig0.pdf            # Military vessel examples (FGSRCS dataset)
+│   ├── fig1.pdf            # Synthetic cloud augmentation examples
+│   ├── fig2.pdf            # Synthetic cloud coverage distribution
+│   ├── fig3.pdf            # Class distributions for splits
+│   ├── fig4.pdf            # WAVES vs. Global CP (prediction set sizes vs. cloud coverage)
+│   └── fig5.pdf            # Calibration cumulative distribution example
 │
-├── models/ # Trained models
-│ ├── best_resnet50_epoch*.7z.* # ResNet-50 fine-tuned model
-│ ├── best_convnext_tiny_epoch*.7z.* # ConvNeXt-Tiny fine-tuned model
-│ ├── best_densenet121_epoch*.7z.* # DenseNet-121 fine-tuned model
-│ └── quality_regressor.7z.* # Cloud coverage regression model (ResNet-18)
+├── models/                 # Trained models
+│   ├── best_resnet50_epoch*.7z.*      # ResNet-50 fine-tuned model
+│   ├── best_convnext_tiny_epoch*.7z.* # ConvNeXt-Tiny fine-tuned model
+│   ├── best_densenet121_epoch*.7z.*   # DenseNet-121 fine-tuned model
+│   └── quality_regressor.7z.*         # Cloud coverage regression model (ResNet-18)
 │
-├── notebook.ipynb # Jupyter notebook for reproducing experiments
-├── requirements.txt # Python dependencies
-├── results/ # Detailed results and evaluations
-│ ├── bucket_* # Results for WAVES (adaptive CP method)
-│ ├── global_conformal_* # Results for global CP method
-│ ├── comparison_* # WAVES vs. Global CP comparisons
-│ ├── confusion_matrix_* # Confusion matrices
-│ ├── regression_* # Cloud coverage regression model evaluations
-│ ├── relative_class_dist.svg # Class distribution overview
-│ └── *.svg, *.csv # Other supporting results & visualizations
+├── notebook.ipynb          # Jupyter notebook for experiments
+├── requirements.txt        # Python dependencies
+├── results/                # Detailed results and visualizations
+│   ├── bucket_*                    # WAVES (adaptive CP method) results
+│   ├── global_conformal_*          # Global CP method results
+│   ├── comparison_*                # WAVES vs. Global CP comparisons
+│   ├── confusion_matrix_*          # Confusion matrices
+│   ├── regression_*                # Cloud coverage regression evaluations
+│   ├── relative_class_dist.svg     # Class distribution overview
+│   └── *.svg, *.csv                # Other supporting results & visualizations
 │
-├── LICENSE # MIT License
-└── .gitignore # Git configuration
-
-
+├── LICENSE                 # MIT License
+└── .gitignore              # Git configuration
+```
 
 ## Key Results
 
@@ -80,15 +84,14 @@ This repository introduces **WAVES (Weather-Aware Visual Estimation with Sets)**
 *(Best performance highlighted in bold.)*
 
 ## Paper Figures (Diagrams)
-
-| Figure                               | Description                                         |
-|--------------------------------------|-----------------------------------------------------|
-| [fig0.pdf](diagrams_paper/fig0.pdf)  | Example military vessel classes (FGSRCS dataset).   |
-| [fig1.pdf](diagrams_paper/fig1.pdf)  | Synthetic cloud augmentation examples.              |
-| [fig2.pdf](diagrams_paper/fig2.pdf)  | Synthetic cloud coverage distribution.              |
-| [fig3.pdf](diagrams_paper/fig3.pdf)  | Relative class distribution for dataset splits.     |
-| [fig4.pdf](diagrams_paper/fig4.pdf)  | WAVES vs. Global CP (prediction size vs. coverage). |
-| [fig5.pdf](diagrams_paper/fig5.pdf)  | Calibration cumulative distribution example.        |
+| Figure                                   | Description                                         |
+|------------------------------------------|-----------------------------------------------------|
+| ![](diagrams_paper/fig0.pdf)             | Example military vessel classes (FGSRCS dataset).   |
+| ![](diagrams_paper/fig1.pdf)             | Synthetic cloud augmentation examples.              |
+| ![](diagrams_paper/fig2.pdf)             | Synthetic cloud coverage distribution.              |
+| ![](diagrams_paper/fig3.pdf)             | Relative class distribution for dataset splits.     |
+| ![](diagrams_paper/fig4.pdf)             | WAVES vs. Global CP (prediction size vs. coverage). |
+| ![](diagrams_paper/fig5.pdf)             | Calibration cumulative distribution example.        |
 
 ## Installation and Usage
 
@@ -139,6 +142,4 @@ This research is part of the RIVA project, funded by dtec.bw – Digitalization 
 Chair of Automation, Ruhr University Bochum  
 Email: gianluca.manca@ruhr-uni-bochum.de
 
-*(Paper currently under review at ECAI 2025; citation details will be provided upon acceptance.)*
-
-
+*(Paper currently under review at AI4DS Workshop at ECAI 2025; citation details will be provided upon acceptance.)*
