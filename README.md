@@ -29,12 +29,11 @@ uncertainty-aware-ship-classification/
 │   └── preprocessed_metadata.csv   # Image metadata and cloud coverage scores
 │
 ├── diagrams_paper/         # Paper figures and diagrams
-│   ├── fig0.pdf            # Military vessel examples (FGSRCS dataset)
-│   ├── fig1.pdf            # Synthetic cloud augmentation examples
-│   ├── fig2.pdf            # Synthetic cloud coverage distribution
-│   ├── fig3.pdf            # Class distributions for splits
-│   ├── fig4.pdf            # WAVES vs. Global CP (prediction set sizes vs. cloud coverage)
-│   └── fig5.pdf            # Calibration cumulative distribution example
+│   ├── fig1.png            # Military vessel examples (FGSRCS dataset)
+│   ├── fig2.png            # Synthetic cloud augmentation examples
+│   ├── fig3.png            # Synthetic cloud coverage distribution
+│   ├── fig4.png            # Class distributions for splits
+│   └── fig5.png            # WAVES vs. Global CP (prediction set sizes vs. cloud coverage)
 │
 ├── models/                 # Trained models
 │   ├── best_resnet50_epoch*.7z.*      # ResNet-50 fine-tuned model
