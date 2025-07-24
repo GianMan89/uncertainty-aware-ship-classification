@@ -59,39 +59,31 @@ uncertainty-aware-ship-classification/
 
 ## Key Results
 
-### Baseline Classifier Performance (with vs. without clouds)
+## Key Results
 
-| Model            | Accuracy (Original) | Accuracy (Cloud-Augmented) |
-|------------------|---------------------|----------------------------|
-| ResNet-50        | 76.72%              | 64.60%                     |
-| ConvNeXt-Tiny    | 84.68%              | 73.20%                     |
-| DenseNet-121     | 82.72%              | 71.10%                     |
+| Model          | Accuracy (Clear) | Accuracy (Cloud-Augmented) |
+|----------------|------------------|----------------------------|
+| ResNet-50      | 76.72%           | 64.60%                     |
+| DenseNet-121   | 82.72%           | 71.10%                     |
+| ConvNeXt-Tiny  | 84.68%           | 73.20%                     |
 
-### WAVES vs. Global CP (Cloud-Augmented Data)
+## WAVES vs. Global CP (Test Set)
 
-| Model           | $\alpha$ | Baseline Acc. | Global CP Coverage | WAVES Coverage | Global CP Size | WAVES Size | WAVES Bins |
-|-----------------|----------|---------------|--------------------|----------------|----------------|------------|------------|
-| ResNet-50       | 0.01     | 64.6%         | **96.7%**          | 94.5%          | 8.00 ± 6.94    | **6.67 ± 6.79** | 3 |
-| ResNet-50       | 0.05     | 64.6%         | 90.6%              | 90.6%          | 3.64 ± 3.21    | 3.64 ± 3.21 | 1 |
-| ResNet-50       | 0.10     | 64.6%         | 84.9%              | 84.9%          | 2.41 ± 1.81    | 2.41 ± 1.81 | 1 |
-| ConvNeXt-Tiny   | 0.01     | 73.2%         | **97.2%**          | 96.8%          | 5.61 ± 5.73    | **4.99 ± 5.43** | 3 |
-| ConvNeXt-Tiny   | 0.05     | 73.2%         | **92.8%**          | 92.4%          | 2.95 ± 2.92    | **2.94 ± 3.29** | 3 |
-| ConvNeXt-Tiny   | 0.10     | 73.2%         | **86.3%**          | 85.7%          | 1.76 ± 1.23    | **1.73 ± 1.29** | 2 |
-| DenseNet-121    | 0.01     | 71.1%         | **97.1%**          | 96.7%          | 6.91 ± 5.34    | **6.49 ± 5.08** | 4 |
-| DenseNet-121    | 0.05     | 71.1%         | 93.3%              | 93.3%          | 3.69 ± 2.99    | 3.69 ± 2.99 | 1 |
-| DenseNet-121    | 0.10     | 71.1%         | **89.3%**          | 89.2%          | 2.47 ± 1.78    | **2.40 ± 2.04** | 3 |
-
+| Model           | α    | Global CP Coverage | WAVES Coverage | Global CP Size | WAVES Size | WAVES Bins |
+|-----------------|------|--------------------|----------------|----------------|------------|------------|
+| ResNet-50       | 0.01 | **96.7%**          | 94.5%          | 8.00 (±6.94)   | **6.67 (±6.79)** | 3 |
+| ConvNeXt-Tiny   | 0.01 | **97.2%**          | 96.8%          | 5.61 (±5.73)   | **4.99 (±5.43)** | 3 |
+| DenseNet-121    | 0.01 | **97.1%**          | 96.7%          | 6.91 (±5.34)   | **6.49 (±5.08)** | 4 |
 *(Best performance highlighted in bold.)*
 
 ## Paper Figures (Diagrams)
-| Figure                                   | Description                                         |
-|------------------------------------------|-----------------------------------------------------|
-| ![](diagrams_paper/fig0.pdf)             | Example military vessel classes (FGSRCS dataset).   |
-| ![](diagrams_paper/fig1.pdf)             | Synthetic cloud augmentation examples.              |
-| ![](diagrams_paper/fig2.pdf)             | Synthetic cloud coverage distribution.              |
-| ![](diagrams_paper/fig3.pdf)             | Relative class distribution for dataset splits.     |
-| ![](diagrams_paper/fig4.pdf)             | WAVES vs. Global CP (prediction size vs. coverage). |
-| ![](diagrams_paper/fig5.pdf)             | Calibration cumulative distribution example.        |
+| Figure | Description |
+|--------|-------------|
+| ![](diagrams_paper/fig1.png) | **Military Vessel Examples:** Satellite image from the FGSRCS dataset showing military vessels with high interclass similarity (destroyer, cruiser, littoral-combat-ship). |
+| ![](diagrams_paper/fig2.png) | **Synthetic Cloud Augmentation:** Visual examples of synthetic cloud augmentation at different severity levels. Top row: Car carrier (class 7) with cloud coverage scores (a) Raw, (b) Mild (0.066), (c) Moderate (0.242), (d) Severe (0.522). Bottom row: Destroyer (class 12) with (e) Raw, (f) Mild (0.058), (g) Moderate (0.256), (h) Severe (0.663). Cloud coverage scores indicate feature obstruction. |
+| ![](diagrams_paper/fig3.png) | **Cloud Coverage Distribution:** Distribution of synthetic cloud coverage scores in the modified FGSC-23 dataset. Most images have mild to moderate coverage; fewer have severe coverage. |
+| ![](diagrams_paper/fig4.png) | **Class Distributions:** Relative class distributions for training, validation, and test splits of FGSC-23 after stratified sampling. |
+| ![](diagrams_paper/fig5.png) | **WAVES vs. Global CP:** Comparison of Global Conformal Prediction and WAVES for ConvNeXt-Tiny at miscoverage level \(\alpha=0.01\). |
 
 ## Installation and Usage
 

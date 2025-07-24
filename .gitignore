@@ -15,6 +15,7 @@ keys/
 models/*.pth
 diagrams_paper/*.svg
 diagrams_paper/*.pptx
+diagrams_paper/*.pdf
 
 # Distribution / packaging
 .Python
