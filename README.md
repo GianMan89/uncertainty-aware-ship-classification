@@ -59,7 +59,7 @@ uncertainty-aware-ship-classification/
 
 ## Key Results
 
-## Key Results
+### Baseline Classifier Performance (with vs. without clouds)
 
 | Model          | Accuracy (Clear) | Accuracy (Cloud-Augmented) |
 |----------------|------------------|----------------------------|
@@ -67,14 +67,15 @@ uncertainty-aware-ship-classification/
 | DenseNet-121   | 82.72%           | 71.10%                     |
 | ConvNeXt-Tiny  | 84.68%           | 73.20%                     |
 
-## WAVES vs. Global CP (Test Set)
+### WAVES vs. Global CP (Cloud-Augmented Data)
 
-| Model           | α    | Global CP Coverage | WAVES Coverage | Global CP Size | WAVES Size | WAVES Bins |
+| Model           | α    | Global CP Coverage | WAVES Coverage | Global CP Average Set Size | WAVES Average Set Size | WAVES Bins |
 |-----------------|------|--------------------|----------------|----------------|------------|------------|
 | ResNet-50       | 0.01 | **96.7%**          | 94.5%          | 8.00 (±6.94)   | **6.67 (±6.79)** | 3 |
 | ConvNeXt-Tiny   | 0.01 | **97.2%**          | 96.8%          | 5.61 (±5.73)   | **4.99 (±5.43)** | 3 |
 | DenseNet-121    | 0.01 | **97.1%**          | 96.7%          | 6.91 (±5.34)   | **6.49 (±5.08)** | 4 |
-*(Best performance highlighted in bold.)*
+
+<sup>*(Best performance highlighted in bold.)*</sup>
 
 ## Paper Figures (Diagrams)
 | Figure | Description |
@@ -83,7 +84,7 @@ uncertainty-aware-ship-classification/
 | ![](diagrams_paper/fig2.png) | **Synthetic Cloud Augmentation:** Visual examples of synthetic cloud augmentation at different severity levels. Top row: Car carrier (class 7) with cloud coverage scores (a) Raw, (b) Mild (0.066), (c) Moderate (0.242), (d) Severe (0.522). Bottom row: Destroyer (class 12) with (e) Raw, (f) Mild (0.058), (g) Moderate (0.256), (h) Severe (0.663). Cloud coverage scores indicate feature obstruction. |
 | ![](diagrams_paper/fig3.png) | **Cloud Coverage Distribution:** Distribution of synthetic cloud coverage scores in the modified FGSC-23 dataset. Most images have mild to moderate coverage; fewer have severe coverage. |
 | ![](diagrams_paper/fig4.png) | **Class Distributions:** Relative class distributions for training, validation, and test splits of FGSC-23 after stratified sampling. |
-| ![](diagrams_paper/fig5.png) | **WAVES vs. Global CP:** Comparison of Global Conformal Prediction and WAVES for ConvNeXt-Tiny at miscoverage level \(\alpha=0.01\). |
+| ![](diagrams_paper/fig5.png) | **WAVES vs. Global CP:** Comparison of Global Conformal Prediction and WAVES for ConvNeXt-Tiny at miscoverage level alpha=0.01. |
 
 ## Installation and Usage
 
