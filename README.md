@@ -128,6 +128,10 @@ Distributed under the [MIT License](LICENSE).
 
 This research is part of the RIVA project, funded by dtec.bw – Digitalization and Technology Research Center of the Bundeswehr, supported by the European Union – NextGenerationEU.
 
+<p align="center">
+    <img src="diagrams_paper/dtec.bw_EU-Foederhinweis_RGB_vertikal-1-1024x241.png" alt="dtec.bw EU Funding Acknowledgement" width="512">
+</p>
+
 ## Contact
 
 **Gianluca Manca** (Corresponding Author)  
