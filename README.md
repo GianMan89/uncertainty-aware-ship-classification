@@ -68,7 +68,7 @@ uncertainty-aware-ship-classification/
 |----------------------|------------------|----------------------------|
 | ResNet-50            | 75.06%           | 62.84%                     |
 | DenseNet-121         | XX.XX%           | 59.90%                     |
-| ConvNeXt-Tiny        | XX.XX%           | 64.55%                     |
+| ConvNeXt-Tiny        | 81.66%           | 64.55%                     |
 | EfficientNet-b0      | XX.XX%           | 67.73%                     |
 | MobileNet-V3-Large   | XX.XX%           | 62.35%                     |
 
