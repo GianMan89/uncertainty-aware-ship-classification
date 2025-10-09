@@ -88,7 +88,7 @@ uncertainty-aware-ship-classification/
 | Figure | Description |
 |--------|-------------|
 | ![](diagrams_paper/fig1.png) | **Military Vessel Examples:** Satellite image from the FGSRCS dataset showing military vessels with high interclass similarity (destroyer, cruiser, littoral-combat-ship). |
-| ![](diagrams_paper/fig2.png) | **Synthetic Cloud Augmentation:** Visual examples of synthetic cloud augmentation at different severity levels.Cloud coverage (CC) scores within each subfigure indicate feature obstruction. |
+| ![](diagrams_paper/fig2.png) | **Synthetic Cloud Augmentation:** Visual examples of synthetic cloud augmentation at different severity levels. Cloud coverage (CC) scores within each subfigure indicate feature obstruction. |
 | ![](diagrams_paper/fig3.png) | **Cloud Coverage Distribution:** Distribution of synthetic cloud coverage scores in the modified FGSC-23 dataset. Most images have mild to moderate coverage; fewer have severe coverage. |
 | ![](diagrams_paper/fig4.png) | **Class Distributions:** Relative class distributions for training, validation, and test splits of FGSC-23 after stratified sampling. |
 | ![](diagrams_paper/fig5.png) | **WAVES vs. Global CP:** Comparison of Global Conformal Prediction and WAVES over all alpha values and models. |
