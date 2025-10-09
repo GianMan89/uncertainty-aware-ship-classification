@@ -9,13 +9,13 @@ This repository contains the official implementation for the paper:
 
 **"Adaptive Uncertainty Quantification for Maritime Classification under Cloud Cover in Satellite Imagery"**
 
-(Submitted to AI4SD Workshop at ECAI 2025, currently under review.)
+*AI in Security and Defense (AI4SD) Workshop @ ECAI 2025*
 
 ## Overview
 
 Reliable maritime vessel classification from satellite imagery is essential for tasks such as naval intelligence, search-and-rescue operations, and maritime security. However, the accuracy of traditional classifiers deteriorates significantly under meteorological conditions like clouds, haze, and fog.
 
-This repository introduces **WAVES (Weather-Aware Visual Estimation with Sets)**, a novel conformal prediction-based framework that dynamically adjusts classification uncertainty based on image quality, particularly cloud coverage. WAVES produces adaptive prediction sets that become narrower for clear images and wider for cloud-covered images, providing statistically valid uncertainty quantification.
+This repository introduces **WAVES (Weather-Aware Visual Estimation with Sets)**, a conformal prediction-based framework that adapts uncertainty to **image quality** (cloud coverage). In practice, WAVES calibrates classifier probabilities by quality (quality-aware **temperature scaling** on a validation split) and then applies a **single global conformal threshold** on a calibration split. The result are adaptive prediction sets that remain narrow for clear images and widen under cloud cover, while retaining split-conformal marginal coverage.
 
 ## Repository Structure
 
@@ -24,7 +24,8 @@ uncertainty-aware-ship-classification/
 ├── data/                   # Dataset splits and metadata
 │   ├── preprocessed_dataset.*      # Full augmented dataset (7z compressed)
 │   ├── train_dataset.*             # Training split
-│   ├── val_dataset.*               # Validation split (for calibration & tuning)
+│   ├── val_dataset.*               # Validation split
+|   ├── cal_dataset.*               # Calibration split
 │   ├── test_dataset.*              # Independent test split
 │   └── preprocessed_metadata.csv   # Image metadata and cloud coverage scores
 │
@@ -39,12 +40,15 @@ uncertainty-aware-ship-classification/
 │   ├── best_resnet50_epoch*.7z.*      # ResNet-50 fine-tuned model
 │   ├── best_convnext_tiny_epoch*.7z.* # ConvNeXt-Tiny fine-tuned model
 │   ├── best_densenet121_epoch*.7z.*   # DenseNet-121 fine-tuned model
+│   ├── best_efficientnet_b0_epoch*.7z.*   # EfficientNet-b0 fine-tuned model
+│   ├── best_mobilenet_v3_large_epoch*.7z.*   # MobileNet-V3-Large fine-tuned model
 │   └── quality_regressor.7z.*         # Cloud coverage regression model (ResNet-18)
 │
 ├── notebook.ipynb          # Jupyter notebook for experiments
 ├── requirements.txt        # Python dependencies
 ├── results/                # Detailed results and visualizations
-│   ├── bucket_*                    # WAVES (adaptive CP method) results
+│   ├── all_methods_scores_combined_*                    # Comprehensive comparison of WAVES and Global CP results
+│   ├── waves_*                    # WAVES results
 │   ├── global_conformal_*          # Global CP method results
 │   ├── comparison_*                # WAVES vs. Global CP comparisons
 │   ├── confusion_matrix_*          # Confusion matrices
@@ -60,21 +64,25 @@ uncertainty-aware-ship-classification/
 
 ### Baseline Classifier Performance (with vs. without clouds)
 
-| Model          | Accuracy (Clear) | Accuracy (Cloud-Augmented) |
-|----------------|------------------|----------------------------|
-| ResNet-50      | 76.72%           | 64.60%                     |
-| DenseNet-121   | 82.72%           | 71.10%                     |
-| ConvNeXt-Tiny  | 84.68%           | 73.20%                     |
+| Model                | Accuracy (Clear) | Accuracy (Cloud-Augmented) |
+|----------------------|------------------|----------------------------|
+| ResNet-50            | 62.84%           | 75.06%                     |
+| DenseNet-121         | 59.90%           | XX.XX%                     |
+| ConvNeXt-Tiny        | 64.55%           | XX.XX%                     |
+| EfficientNet-b0      | 67.73%           | XX.XX%                     |
+| MobileNet-V3-Large   | 62.35%           | XX.XX%                     |
 
-### WAVES vs. Global CP (Cloud-Augmented Data)
+### WAVES vs. Global CP (Cloud-Augmented Data, α = 0.02, NBINS = 3)
 
-| Model           | α    | Global CP Coverage | WAVES Coverage | Global CP Average Set Size | WAVES Average Set Size | WAVES Bins |
-|-----------------|------|--------------------|----------------|----------------|------------|------------|
-| ResNet-50       | 0.01 | **96.7%**          | 94.5%          | 8.00 (±6.94)   | **6.67 (±6.79)** | 3 |
-| ConvNeXt-Tiny   | 0.01 | **97.2%**          | 96.8%          | 5.61 (±5.73)   | **4.99 (±5.43)** | 3 |
-| DenseNet-121    | 0.01 | **97.1%**          | 96.7%          | 6.91 (±5.34)   | **6.49 (±5.08)** | 4 |
+| Model               | α    | Global CP Coverage | WAVES Coverage | Global CP Average Set Size | WAVES Average Set Size | WAVES Bins |
+|---------------------|------|--------------------|----------------|----------------------------|------------------------|------------|
+| ResNet-50           | 0.02 | 97.8%              | **98.3%**      | 8.94                       | **7.70**               | 3 |
+| ConvNeXt-Tiny       | 0.02 | **97.1%**          | **97.1%**      | 7.08                       | **6.67**               | 3 |
+| DenseNet-121        | 0.02 | **97.6%**          | 97.3%          | **10.50**                  | **10.50**              | 3 |
+| EfficientNet-b0     | 0.02 | **98.3%**          | 97.6%          | 7.40                       | **7.03**               | 3 |
+| MobileNet-V3-Large  | 0.02 | **97.8%**          | **97.8%**      | 8.76                       | **8.06**               | 3 |
 
-<sup>*(Best performance highlighted in bold.)*</sup>
+<sup>*Representative results at strict coverage; best values bold. WAVES uses quality-aware temperature scaling (VAL) + one global conformal threshold (CAL).* </sup>
 
 ## Paper Figures (Diagrams)
 | Figure | Description |
@@ -83,7 +91,7 @@ uncertainty-aware-ship-classification/
 | ![](diagrams_paper/fig2.png) | **Synthetic Cloud Augmentation:** Visual examples of synthetic cloud augmentation at different severity levels. Top row: Car carrier (class 7) with cloud coverage scores (a) Raw, (b) Mild (0.066), (c) Moderate (0.242), (d) Severe (0.522). Bottom row: Destroyer (class 12) with (e) Raw, (f) Mild (0.058), (g) Moderate (0.256), (h) Severe (0.663). Cloud coverage scores indicate feature obstruction. |
 | ![](diagrams_paper/fig3.png) | **Cloud Coverage Distribution:** Distribution of synthetic cloud coverage scores in the modified FGSC-23 dataset. Most images have mild to moderate coverage; fewer have severe coverage. |
 | ![](diagrams_paper/fig4.png) | **Class Distributions:** Relative class distributions for training, validation, and test splits of FGSC-23 after stratified sampling. |
-| ![](diagrams_paper/fig5.png) | **WAVES vs. Global CP:** Comparison of Global Conformal Prediction and WAVES for ConvNeXt-Tiny at miscoverage level alpha=0.01. |
+| ![](diagrams_paper/fig5.png) | **WAVES vs. Global CP:** Comparison of Global Conformal Prediction and WAVES over all alpha values and models. |
 
 ## Installation and Usage
 
@@ -102,17 +110,17 @@ pip install -r requirements.txt
 
 Use the provided Jupyter notebook (`notebook.ipynb`) to:
 
-- Fine-tune classification models (ResNet-50, DenseNet-121, ConvNeXt-Tiny).
+- Fine-tune classification models (ResNet-50, DenseNet-121, ConvNeXt-Tiny, EfficientNet-b0, MobileNet-V3-Large).
 - Train the cloud coverage regression model (ResNet-18).
 - Evaluate global conformal prediction and WAVES methods.
 - Generate visualizations and summarize results.
 
 ## Implemented Methods
 
-- **Baseline Classifiers:** ResNet-50, DenseNet-121, ConvNeXt-Tiny.
+- **Baseline Classifiers:** ResNet-50, DenseNet-121, ConvNeXt-Tiny, EfficientNet-b0, MobileNet-V3-Large.
 - **Cloud Coverage Regressor:** ResNet-18 predicting cloud coverage scores.
 - **Global Conformal Prediction:** Single global CP threshold for uncertainty quantification.
-- **WAVES:** Adaptive conformal prediction with dynamic thresholds based on cloud coverage.
+- **WAVES:** Quality-aware temperature scaling + one global conformal threshold.
 
 ## Repository Contents
 
@@ -134,8 +142,8 @@ This research is part of the RIVA project, funded by dtec.bw – Digitalization 
 
 ## Contact
 
-**Gianluca Manca** (Corresponding Author)  
+**Dr.-Ing. Gianluca Manca** (Corresponding Author)  
 Chair of Automation, Ruhr University Bochum  
 Email: gianluca.manca@ruhr-uni-bochum.de
 
-*(Paper currently under review at AI4DS Workshop at ECAI 2025; citation details will be provided upon acceptance.)*
+*(Paper presented at AI4DS Workshop at ECAI 2025; citation details will be provided upon publication.)*
