@@ -1,0 +1,24 @@
+,Non-ship,Aircraft carrier,Submarine,Medical ship,Combat boat,Auxiliary ship,Container ship,Car carrier,Hovercraft,Bulk carrier,Oil tanker,Fishing boat,Destroyer,Passenger ship,Liquefied gas ship,Barge,Landing craft,Frigate,Amphibious transport dock,Cruiser,Tarawa-class amphibious assault ship,Amphibious assault ship,Command ship
+Non-ship,24,0,1,0,4,2,0,0,1,8,0,8,0,1,0,0,0,0,0,0,0,0,0
+Aircraft carrier,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0
+Submarine,0,0,20,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+Medical ship,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Combat boat,0,0,1,0,8,3,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+Auxiliary ship,2,0,0,0,3,9,0,0,0,0,1,5,2,0,0,0,0,0,1,0,0,0,0
+Container ship,0,0,0,0,0,0,4,0,0,3,0,0,1,0,0,0,1,0,1,0,0,0,0
+Car carrier,0,0,0,0,0,0,0,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Hovercraft,0,0,0,0,0,1,0,0,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bulk carrier,0,0,1,0,0,2,1,0,0,20,2,6,0,1,0,0,0,0,0,1,0,0,0
+Oil tanker,0,0,0,0,1,0,0,1,0,2,11,0,2,0,0,0,0,0,0,0,0,0,0
+Fishing boat,0,0,0,0,2,2,0,0,0,2,0,4,0,0,0,0,0,0,0,0,0,0,0
+Destroyer,0,0,1,0,0,1,0,1,0,2,0,0,43,0,0,0,0,3,0,1,1,1,1
+Passenger ship,1,0,0,0,0,3,0,0,0,0,0,2,1,2,0,0,0,0,0,0,0,0,0
+Liquefied gas ship,0,0,0,0,0,0,0,0,0,0,0,1,0,0,8,0,0,0,0,0,0,0,0
+Barge,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,3,0,0,0,0,0,0,0
+Landing craft,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,8,0,0,1,0,0,0
+Frigate,0,0,0,0,4,1,0,0,0,1,0,0,4,0,0,0,0,18,0,1,0,0,1
+Amphibious transport dock,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,6,0,1,0,0
+Cruiser,0,1,1,0,0,0,0,0,0,0,0,0,5,0,0,0,1,5,1,14,1,0,0
+Tarawa-class amphibious assault ship,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,1,0,3,0,0
+Amphibious assault ship,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0
+Command ship,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,5
