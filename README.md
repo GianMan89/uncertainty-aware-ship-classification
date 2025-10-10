@@ -67,10 +67,10 @@ uncertainty-aware-ship-classification/
 | Model                | Accuracy (Clear) | Accuracy (Cloud-Augmented) |
 |----------------------|------------------|----------------------------|
 | ResNet-50            | 75.06%           | 62.84%                     |
-| DenseNet-121         | XX.XX%           | 59.90%                     |
+| DenseNet-121         | 84.35%           | 59.90%                     |
 | ConvNeXt-Tiny        | 81.66%           | 64.55%                     |
-| EfficientNet-b0      | XX.XX%           | 67.73%                     |
-| MobileNet-V3-Large   | XX.XX%           | 62.35%                     |
+| EfficientNet-b0      | 83.86%           | 67.73%                     |
+| MobileNet-V3-Large   | 81.66%           | 62.35%                     |
 
 ### WAVES vs. Global CP (Cloud-Augmented Data, α = 0.02, NBINS = 3)
 
