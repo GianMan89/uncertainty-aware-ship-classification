@@ -51,10 +51,6 @@
     "cloud_coverage": {
       "dtype": "float64",
       "_type": "Value"
-    },
-    "cloud_coverage_pred": {
-      "dtype": "float64",
-      "_type": "Value"
     }
   },
   "homepage": "",
